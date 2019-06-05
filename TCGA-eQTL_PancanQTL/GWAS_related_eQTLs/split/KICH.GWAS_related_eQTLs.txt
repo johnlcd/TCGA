@@ -1,0 +1,300 @@
+cancer.type	eQTL.type	tagSNP	LD	SNP.ID	SNP.position.hg19	Gene.symbol	Gene.position.hg19	Beta	t-stat	P-value	GWAS-Traits	
+KICH	cis	1	rs1013338	chr22:38974154	CBY1	chr22:39052658-39069853:+	0.74	5.39	3.13E-6	Resting heart rate	
+KICH	cis	1	rs1016669	chr3:41894440	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs10212536	chr3:41827026	ULK4	chr3:41288091-42003660:-	0.99	8.69	7.7E-11	Diastolic blood pressure	
+KICH	cis	1	rs1025646	chr3:41754422	ULK4	chr3:41288091-42003660:-	0.89	5.87	6.7E-7	Diastolic blood pressure	
+KICH	cis	1	rs1052501	chr3:41925398	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1056610	chr22:39080078	CBY1	chr22:39052658-39069853:+	-0.76	-5.6	1.62E-6	Resting heart rate	
+KICH	cis	1	rs10734259	chr11:18314865	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs10741741	chr11:18342081	GTF2H1	chr11:18343816-18388590:+	-0.47	-5.18	6.2E-6	Pancreatic cancer	
+KICH	cis	1	rs10741742	chr11:18342160	GTF2H1	chr11:18343816-18388590:+	0.47	5.48	2.36E-6	Pancreatic cancer	
+KICH	cis	1	rs10832921	chr11:18380835	GTF2H1	chr11:18343816-18388590:+	0.47	5.34	3.69E-6	Pancreatic cancer	
+KICH	cis	1	rs10865914	chr3:41919499	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs11161511	chr1:76210477	ACADM	chr1:76190043-76229353:+	-0.49	-5.24	5.14E-6	Blood metabolite levels;Acylcarnitine levels	
+KICH	cis	1	rs1125203	chr3:41760895	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs1140047	chr11:18327684	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs114960066	chr3:41882323	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs11701281	chr21:35314242	FAM165B	chr21:35747749-35775074:+	1.35	5.32	3.96E-6	Red blood cell traits	
+KICH	cis	1	rs11701963	chr21:35323657	FAM165B	chr21:35747749-35775074:+	1.26	5.21	5.75E-6	Red blood cell traits	
+KICH	cis	1	rs11923562	chr3:41760331	ULK4	chr3:41288091-42003660:-	0.89	5.87	6.7E-7	Diastolic blood pressure	
+KICH	cis	1	rs11928580	chr3:41885722	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs12286683	chr11:18348662	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs12639255	chr3:41861738	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs13047059	chr21:35327602	FAM165B	chr21:35747749-35775074:+	1.29	5.17	6.44E-6	Red blood cell traits	
+KICH	cis	1	rs13087719	chr3:41951576	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs13252719	chr8:71734569	XKR9	chr8:71581600-71648176:+	1.06	11.33	3.34E-14	Bone mineral density	
+KICH	cis	1	rs13253842	chr8:71625503	XKR9	chr8:71581600-71648176:+	1.05	11.27	3.89E-14	Bone mineral density	
+KICH	cis	1	rs13325965	chr3:41914942	ULK4	chr3:41288091-42003660:-	1	6.71	4.25E-8	Diastolic blood pressure	
+KICH	cis	1	rs1385499	chr8:119974708	COLEC10	chr8:120079424-120119195:+	-0.66	-5.72	1.09E-6	Bone mineral density (hip);Bone mineral density	
+KICH	cis	1	rs1520884	chr11:18309700	GTF2H1	chr11:18343816-18388590:+	-0.45	-5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs1564716	chr3:41862613	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs1607908	chr3:41905196	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1612124	chr3:41967893	ULK4	chr3:41288091-42003660:-	-0.97	-8.04	5.9E-10	Diastolic blood pressure	
+KICH	cis	1	rs1613759	chr3:41906183	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1615243	chr3:41965234	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1615543	chr3:41906404	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1628874	chr3:41955714	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1629460	chr3:41927449	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs17061431	chr3:41792655	ULK4	chr3:41288091-42003660:-	0.94	7.15	1.02E-8	Diastolic blood pressure	
+KICH	cis	1	rs17062109	chr3:41810364	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs17063584	chr3:41861463	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs17063599	chr3:41861676	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs17063649	chr3:41863406	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs17064124	chr3:41890803	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs1716642	chr3:41965865	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716644	chr3:41968028	ULK4	chr3:41288091-42003660:-	-0.97	-8.04	5.9E-10	Diastolic blood pressure	
+KICH	cis	1	rs1716651	chr3:41975099	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716657	chr3:41918456	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716660	chr3:41929960	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716661	chr3:41962818	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716664	chr3:41948378	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716668	chr3:41907850	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716669	chr3:41908681	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716676	chr3:41903208	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716683	chr3:41923074	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716685	chr3:41925301	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716688	chr3:41926546	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716690	chr3:41922102	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716692	chr3:41983786	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716693	chr3:41985600	ULK4	chr3:41288091-42003660:-	-0.96	-8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs1716696	chr3:41935811	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716984	chr3:41965532	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716987	chr3:41970516	ULK4	chr3:41288091-42003660:-	-0.97	-8.04	5.9E-10	Diastolic blood pressure	
+KICH	cis	1	rs1716993	chr3:41974556	ULK4	chr3:41288091-42003660:-	-0.97	-8.04	5.9E-10	Diastolic blood pressure	
+KICH	cis	1	rs1716997	chr3:41924333	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1716999	chr3:41930041	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717000	chr3:41930219	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717001	chr3:41934949	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717006	chr3:41940448	ULK4	chr3:41288091-42003660:-	1	8.99	3.03E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717009	chr3:41946308	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717011	chr3:41980199	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717014	chr3:41917395	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717017	chr3:41915616	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717020	chr3:41981490	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717021	chr3:41983860	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717024	chr3:41984888	ULK4	chr3:41288091-42003660:-	-0.95	-8.86	4.53E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717027	chr3:41987920	ULK4	chr3:41288091-42003660:-	-0.96	-8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs1717031	chr3:41905791	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs1717033	chr3:41910216	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs17433780	chr1:89474818	GBP3	chr1:89472367-89488549:-	0.67	8.67	8.0E-11	Carotid intima media thickness	
+KICH	cis	1	rs17761864	chr17:2171637	SRR	chr17:2207248-2228553:+	-0.72	-5.41	3.0E-6	Esophageal cancer (squamous cell)	
+KICH	cis	1	rs1823874	chr15:100357435	C15orf51	chr15:100330361-100347132:-	-0.72	-5.64	1.42E-6	IgG glycosylation	
+KICH	cis	1	rs1994157	chr3:41897482	ULK4	chr3:41288091-42003660:-	0.94	7.31	6.12E-9	Diastolic blood pressure	
+KICH	cis	1	rs2061164	chr11:18329006	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs2072795	chr22:39064209	CBY1	chr22:39052658-39069853:+	-0.68	-5.49	2.32E-6	Resting heart rate	
+KICH	cis	1	rs2081302	chr2:23945355	LOC375190	chr2:24299728-24397519:+	0.73	6.52	7.8E-8	Obesity-related traits	
+KICH	cis	1	rs2128834	chr3:41862645	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs2128835	chr3:41862873	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs2272006	chr3:41997059	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs2272007	chr3:41996136	ULK4	chr3:41288091-42003660:-	-1	-8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs2277862	chr20:34152782	CPNE1	chr20:34213968-34262539:-	-0.76	-5.34	3.72E-6	Cholesterol, total	
+KICH	cis	1	rs2356559	chr1:45981512	CCDC163P	chr1:45960581-45965646:-	-0.86	-5.59	1.64E-6	Homocysteine levels	
+KICH	cis	1	rs2371623	chr3:41761083	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs2371627	chr3:41839219	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs2625667	chr3:41900951	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs2625668	chr3:41905930	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs2683695	chr3:41914928	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs2683696	chr3:41914898	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs2739330	chr22:24295286	GSTT1	chr22:24376141-24384284:-	0.85	6.74	3.87E-8	Liver enzyme levels (gamma-glutamyl transferase)	
+KICH	cis	1	rs2739330	chr22:24295286	LOC391322	chr22:24373117-24374043:+	0.74	5.94	5.24E-7	Liver enzyme levels (gamma-glutamyl transferase)	
+KICH	cis	1	rs2816815	chr6:86691656	SNHG5	chr6:86386726-86388451:-	-0.61	-6	4.39E-7	Response to antipsychotic treatment	
+KICH	cis	1	rs28702390	chr3:41889920	ULK4	chr3:41288091-42003660:-	0.94	7.31	6.12E-9	Diastolic blood pressure	
+KICH	cis	1	rs28733681	chr3:41863444	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs28755797	chr3:41774446	ULK4	chr3:41288091-42003660:-	0.93	6.11	3.01E-7	Diastolic blood pressure	
+KICH	cis	1	rs3740711	chr11:18379839	GTF2H1	chr11:18343816-18388590:+	0.47	5.34	3.69E-6	Pancreatic cancer	
+KICH	cis	1	rs3774372	chr3:41877414	ULK4	chr3:41288091-42003660:-	1	6.64	5.36E-8	Diastolic blood pressure	
+KICH	cis	1	rs3890604	chr3:41760625	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs3934103	chr3:41977214	ULK4	chr3:41288091-42003660:-	-0.97	-8.04	5.9E-10	Diastolic blood pressure	
+KICH	cis	1	rs4150550	chr11:18350898	GTF2H1	chr11:18343816-18388590:+	0.47	5.48	2.36E-6	Pancreatic cancer	
+KICH	cis	1	rs4150562	chr11:18354995	GTF2H1	chr11:18343816-18388590:+	0.47	5.48	2.36E-6	Pancreatic cancer	
+KICH	cis	1	rs4150564	chr11:18355308	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs4150566	chr11:18355599	GTF2H1	chr11:18343816-18388590:+	0.44	5.11	7.94E-6	Pancreatic cancer	
+KICH	cis	1	rs4150575	chr11:18356466	GTF2H1	chr11:18343816-18388590:+	0.44	5.11	7.94E-6	Pancreatic cancer	
+KICH	cis	1	rs4150579	chr11:18357180	GTF2H1	chr11:18343816-18388590:+	-0.47	-5.48	2.36E-6	Pancreatic cancer	
+KICH	cis	1	rs4150610	chr11:18364140	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs4150612	chr11:18364358	GTF2H1	chr11:18343816-18388590:+	0.47	5.48	2.36E-6	Pancreatic cancer	
+KICH	cis	1	rs4150615	chr11:18365028	GTF2H1	chr11:18343816-18388590:+	-0.47	-5.42	2.89E-6	Pancreatic cancer	
+KICH	cis	1	rs4150622	chr11:18365710	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs4150650	chr11:18374279	GTF2H1	chr11:18343816-18388590:+	0.47	5.42	2.89E-6	Pancreatic cancer	
+KICH	cis	1	rs4150651	chr11:18374425	GTF2H1	chr11:18343816-18388590:+	0.47	5.42	2.89E-6	Pancreatic cancer	
+KICH	cis	1	rs4150661	chr11:18379629	GTF2H1	chr11:18343816-18388590:+	0.48	5.46	2.55E-6	Pancreatic cancer	
+KICH	cis	1	rs4150673	chr11:18383449	GTF2H1	chr11:18343816-18388590:+	0.49	5.69	1.2E-6	Pancreatic cancer	
+KICH	cis	1	rs4353250	chr11:18323517	GTF2H1	chr11:18343816-18388590:+	0.45	5.1	8.08E-6	Pancreatic cancer	
+KICH	cis	1	rs4408846	chr3:41753679	ULK4	chr3:41288091-42003660:-	0.89	5.87	6.7E-7	Diastolic blood pressure	
+KICH	cis	1	rs4750759	chr10:131436603	MGMT	chr10:131265454-131565783:+	-0.51	-5.18	6.19E-6	Response to temozolomide	
+KICH	cis	1	rs4869313	chr5:96223880	ERAP2	chr5:96211644-96255398:+	-0.92	-8.81	5.22E-11	Pediatric autoimmune diseases	
+KICH	cis	1	rs4973991	chr3:41927273	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs522891	chr10:131430916	MGMT	chr10:131265454-131565783:+	-0.51	-5.18	6.19E-6	Response to temozolomide	
+KICH	cis	1	rs56043407	chr17:2166078	SRR	chr17:2207248-2228553:+	-0.76	-5.74	1.03E-6	Esophageal cancer (squamous cell)	
+KICH	cis	1	rs56121764	chr3:41883975	ULK4	chr3:41288091-42003660:-	0.99	7.78	1.34E-9	Diastolic blood pressure	
+KICH	cis	1	rs56158380	chr3:41885588	ULK4	chr3:41288091-42003660:-	0.99	7.78	1.34E-9	Diastolic blood pressure	
+KICH	cis	1	rs56207540	chr3:41976627	ULK4	chr3:41288091-42003660:-	0.9	6.48	9.12E-8	Diastolic blood pressure	
+KICH	cis	1	rs56776628	chr3:41866856	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs568617	chr11:65653242	CTSW	chr11:65647284-65651212:+	-0.61	-6.83	2.87E-8	Crohn's disease	
+KICH	cis	1	rs57479675	chr3:41798038	ULK4	chr3:41288091-42003660:-	0.97	7.67	1.89E-9	Diastolic blood pressure	
+KICH	cis	1	rs5750621	chr22:38956166	CBY1	chr22:39052658-39069853:+	0.66	5.08	8.6E-6	Resting heart rate	
+KICH	cis	1	rs5750622	chr22:38956464	CBY1	chr22:39052658-39069853:+	0.66	5.08	8.6E-6	Resting heart rate	
+KICH	cis	1	rs5750626	chr22:38977890	CBY1	chr22:39052658-39069853:+	0.75	5.84	7.42E-7	Resting heart rate	
+KICH	cis	1	rs5750627	chr22:38982321	CBY1	chr22:39052658-39069853:+	0.76	5.6	1.62E-6	Resting heart rate	
+KICH	cis	1	rs59150578	chr11:18340862	GTF2H1	chr11:18343816-18388590:+	0.47	5.48	2.36E-6	Pancreatic cancer	
+KICH	cis	1	rs6051080	chr20:25975674	FAM182B	chr20:25744102-25848786:-	0.76	5.39	3.18E-6	Colorectal or endometrial cancer	
+KICH	cis	1	rs6120974	chr20:34126827	CPNE1	chr20:34213968-34262539:-	-0.76	-5.3	4.23E-6	Triglycerides	
+KICH	cis	1	rs61744385	chr3:41756986	ULK4	chr3:41288091-42003660:-	0.89	5.87	6.7E-7	Diastolic blood pressure	
+KICH	cis	1	rs61744388	chr3:41756965	ULK4	chr3:41288091-42003660:-	0.89	5.87	6.7E-7	Diastolic blood pressure	
+KICH	cis	1	rs641018	chr11:65655393	CTSW	chr11:65647284-65651212:+	-0.6	-6.82	2.92E-8	Crohn's disease	
+KICH	cis	1	rs6454513	chr6:86720049	SNHG5	chr6:86386726-86388451:-	0.66	6.03	3.9E-7	Response to antipsychotic treatment	
+KICH	cis	1	rs6519120	chr22:38991393	CBY1	chr22:39052658-39069853:+	-0.68	-5.49	2.32E-6	Resting heart rate	
+KICH	cis	1	rs656980	chr11:65656282	CTSW	chr11:65647284-65651212:+	-0.6	-6.82	2.92E-8	Crohn's disease	
+KICH	cis	1	rs6579245	chr20:34125271	CPNE1	chr20:34213968-34262539:-	-0.76	-5.4	3.06E-6	Cholesterol, total	
+KICH	cis	1	rs6599170	chr3:41772718	ULK4	chr3:41288091-42003660:-	0.92	7.09	1.22E-8	Diastolic blood pressure	
+KICH	cis	1	rs6599175	chr3:41786009	ULK4	chr3:41288091-42003660:-	-0.91	-7.9	9.14E-10	Diastolic blood pressure	
+KICH	cis	1	rs6599176	chr3:41788492	ULK4	chr3:41288091-42003660:-	-0.96	-8.18	3.71E-10	Diastolic blood pressure	
+KICH	cis	1	rs6599178	chr3:41842129	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs6599179	chr3:41855284	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs6763829	chr3:41897046	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs6768128	chr3:41865080	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs6768542	chr3:41865474	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs6768563	chr3:41865541	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs6781326	chr3:41777028	ULK4	chr3:41288091-42003660:-	0.92	7.09	1.22E-8	Diastolic blood pressure	
+KICH	cis	1	rs6783001	chr3:41862232	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs6789260	chr3:41776350	ULK4	chr3:41288091-42003660:-	0.93	6.11	3.01E-7	Diastolic blood pressure	
+KICH	cis	1	rs6790732	chr3:41864872	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs6791806	chr3:41889995	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs6796210	chr3:41851718	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs6797165	chr3:41887777	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs6801343	chr3:41767234	ULK4	chr3:41288091-42003660:-	0.92	7.09	1.22E-8	Diastolic blood pressure	
+KICH	cis	1	rs6802340	chr3:41894034	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs6803560	chr3:41824480	ULK4	chr3:41288091-42003660:-	0.99	8.69	7.7E-11	Diastolic blood pressure	
+KICH	cis	1	rs6803652	chr3:41824556	ULK4	chr3:41288091-42003660:-	0.99	8.69	7.7E-11	Diastolic blood pressure	
+KICH	cis	1	rs6805880	chr3:41865397	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs6807015	chr3:41754514	ULK4	chr3:41288091-42003660:-	0.89	5.87	6.7E-7	Diastolic blood pressure	
+KICH	cis	1	rs687672	chr11:65649984	CTSW	chr11:65647284-65651212:+	0.61	6.83	2.87E-8	Crohn's disease	
+KICH	cis	1	rs693824	chr11:65654783	CTSW	chr11:65647284-65651212:+	-0.61	-6.83	2.87E-8	Crohn's disease	
+KICH	cis	1	rs694994	chr11:65653309	CTSW	chr11:65647284-65651212:+	-0.61	-6.83	2.87E-8	Crohn's disease	
+KICH	cis	1	rs7007450	chr8:71640269	XKR9	chr8:71581600-71648176:+	1.05	11.27	3.89E-14	Bone mineral density	
+KICH	cis	1	rs7017914	chr8:71591203	XKR9	chr8:71581600-71648176:+	1.05	11.27	3.89E-14	Bone mineral density	
+KICH	cis	1	rs73069392	chr3:41787009	ULK4	chr3:41288091-42003660:-	0.94	8.63	9.27E-11	Diastolic blood pressure	
+KICH	cis	1	rs73069394	chr3:41787233	ULK4	chr3:41288091-42003660:-	0.92	7.96	7.54E-10	Diastolic blood pressure	
+KICH	cis	1	rs73069396	chr3:41787236	ULK4	chr3:41288091-42003660:-	0.92	7.96	7.54E-10	Diastolic blood pressure	
+KICH	cis	1	rs73071329	chr3:41810539	ULK4	chr3:41288091-42003660:-	0.99	8.69	7.7E-11	Diastolic blood pressure	
+KICH	cis	1	rs73077367	chr3:41851959	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs73079316	chr3:41863859	ULK4	chr3:41288091-42003660:-	0.92	5.36	3.46E-6	Diastolic blood pressure	
+KICH	cis	1	rs73079321	chr3:41863910	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs73081353	chr3:41906448	ULK4	chr3:41288091-42003660:-	0.98	7.84	1.09E-9	Diastolic blood pressure	
+KICH	cis	1	rs73081364	chr3:41913616	ULK4	chr3:41288091-42003660:-	0.98	7.84	1.09E-9	Diastolic blood pressure	
+KICH	cis	1	rs7372217	chr3:41990122	ULK4	chr3:41288091-42003660:-	-0.96	-8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs743418	chr21:35348500	FAM165B	chr21:35747749-35775074:+	-1.29	-5.27	4.64E-6	Red blood cell traits	
+KICH	cis	1	rs743419	chr21:35348725	FAM165B	chr21:35747749-35775074:+	-1.29	-5.27	4.64E-6	Red blood cell traits	
+KICH	cis	1	rs7616844	chr3:41874343	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs7617397	chr3:41959037	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs7622259	chr3:41881351	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs7624372	chr3:41881107	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs7631057	chr3:41817951	ULK4	chr3:41288091-42003660:-	0.99	8.93	3.69E-11	Diastolic blood pressure	
+KICH	cis	1	rs7632387	chr3:41853161	ULK4	chr3:41288091-42003660:-	0.86	5.56	1.82E-6	Diastolic blood pressure	
+KICH	cis	1	rs7646144	chr3:41853125	ULK4	chr3:41288091-42003660:-	0.86	5.56	1.82E-6	Diastolic blood pressure	
+KICH	cis	1	rs76471037	chr3:41799414	ULK4	chr3:41288091-42003660:-	0.97	7.67	1.89E-9	Diastolic blood pressure	
+KICH	cis	1	rs7648357	chr3:41849670	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs7648578	chr3:41858731	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs7650227	chr3:41794937	ULK4	chr3:41288091-42003660:-	0.94	7.15	1.02E-8	Diastolic blood pressure	
+KICH	cis	1	rs7705093	chr5:96290647	ERAP2	chr5:96211644-96255398:+	1.05	9.45	7.43E-12	Birdshot chorioretinopathy	
+KICH	cis	1	rs7839059	chr8:119976542	COLEC10	chr8:120079424-120119195:+	-0.62	-5.45	2.58E-6	Bone mineral density (hip);Bone mineral density	
+KICH	cis	1	rs7947378	chr11:18381327	GTF2H1	chr11:18343816-18388590:+	0.48	5.34	3.78E-6	Pancreatic cancer	
+KICH	cis	1	rs79548696	chr3:41803385	ULK4	chr3:41288091-42003660:-	1	8.41	1.8E-10	Diastolic blood pressure	
+KICH	cis	1	rs8140617	chr22:38970439	CBY1	chr22:39052658-39069853:+	-0.71	-5.33	3.86E-6	Resting heart rate	
+KICH	cis	1	rs9311288	chr3:41804581	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs939558	chr3:41976040	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs9783347	chr11:18384938	GTF2H1	chr11:18343816-18388590:+	0.49	5.69	1.2E-6	Pancreatic cancer	
+KICH	cis	1	rs9815354	chr3:41912651	ULK4	chr3:41288091-42003660:-	0.98	7.84	1.09E-9	Diastolic blood pressure	
+KICH	cis	1	rs9818169	chr3:41860599	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs9820192	chr3:41889281	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs9823254	chr3:41894768	ULK4	chr3:41288091-42003660:-	0.94	7.31	6.12E-9	Diastolic blood pressure	
+KICH	cis	1	rs9824731	chr3:41889698	ULK4	chr3:41288091-42003660:-	0.94	7.31	6.12E-9	Diastolic blood pressure	
+KICH	cis	1	rs9825741	chr3:41761828	ULK4	chr3:41288091-42003660:-	-0.94	-7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9826058	chr3:41762062	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9828398	chr3:41895893	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs9830064	chr3:41881801	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs9830469	chr3:41762535	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9834098	chr3:41833493	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs9838965	chr3:41927938	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs9839399	chr3:41928044	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs9840037	chr3:41827522	ULK4	chr3:41288091-42003660:-	0.99	8.69	7.7E-11	Diastolic blood pressure	
+KICH	cis	1	rs9840532	chr3:41885697	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs9842261	chr3:41822708	ULK4	chr3:41288091-42003660:-	-0.85	-6.9	2.31E-8	Diastolic blood pressure	
+KICH	cis	1	rs9842305	chr3:41998412	ULK4	chr3:41288091-42003660:-	-0.99	-8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs9846634	chr3:41894049	ULK4	chr3:41288091-42003660:-	0.94	7.31	6.12E-9	Diastolic blood pressure	
+KICH	cis	1	rs9847006	chr3:41755359	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9847975	chr3:41786904	ULK4	chr3:41288091-42003660:-	0.96	7.11	1.16E-8	Diastolic blood pressure	
+KICH	cis	1	rs9848754	chr3:41753647	ULK4	chr3:41288091-42003660:-	0.97	6.46	9.63E-8	Diastolic blood pressure	
+KICH	cis	1	rs9852303	chr3:41759525	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9854833	chr3:41775577	ULK4	chr3:41288091-42003660:-	0.93	6.11	3.01E-7	Diastolic blood pressure	
+KICH	cis	1	rs9854838	chr3:41805670	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs9855965	chr3:41860508	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs9856088	chr3:41860482	ULK4	chr3:41288091-42003660:-	0.96	7.75	1.45E-9	Diastolic blood pressure	
+KICH	cis	1	rs9856633	chr3:42013850	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs9857175	chr3:41822054	ULK4	chr3:41288091-42003660:-	0.99	8.69	7.7E-11	Diastolic blood pressure	
+KICH	cis	1	rs9863915	chr3:41762002	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9864217	chr3:41762206	ULK4	chr3:41288091-42003660:-	0.97	6.46	9.63E-8	Diastolic blood pressure	
+KICH	cis	1	rs9865127	chr3:41807448	ULK4	chr3:41288091-42003660:-	0.99	8.74	6.58E-11	Diastolic blood pressure	
+KICH	cis	1	rs9865780	chr3:41895802	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs9866092	chr3:41895967	ULK4	chr3:41288091-42003660:-	0.96	8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs9866759	chr3:41758418	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9867627	chr3:41795841	ULK4	chr3:41288091-42003660:-	-0.9	-5.79	8.58E-7	Diastolic blood pressure	
+KICH	cis	1	rs9869207	chr3:41878661	ULK4	chr3:41288091-42003660:-	1	8.66	8.29E-11	Diastolic blood pressure	
+KICH	cis	1	rs9869282	chr3:41756064	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9869440	chr3:41763155	ULK4	chr3:41288091-42003660:-	0.94	7.6	2.36E-9	Diastolic blood pressure	
+KICH	cis	1	rs9873207	chr3:41884750	ULK4	chr3:41288091-42003660:-	0.99	7.78	1.34E-9	Diastolic blood pressure	
+KICH	cis	1	rs9874513	chr3:41909508	ULK4	chr3:41288091-42003660:-	0.98	7.84	1.09E-9	Diastolic blood pressure	
+KICH	cis	1	rs9874975	chr3:41764300	ULK4	chr3:41288091-42003660:-	0.92	7.09	1.22E-8	Diastolic blood pressure	
+KICH	cis	1	rs9875083	chr3:41775786	ULK4	chr3:41288091-42003660:-	0.93	6.11	3.01E-7	Diastolic blood pressure	
+KICH	cis	1	rs9875107	chr3:41822313	ULK4	chr3:41288091-42003660:-	0.99	8.69	7.7E-11	Diastolic blood pressure	
+KICH	cis	1	rs9876960	chr3:41985812	ULK4	chr3:41288091-42003660:-	-0.96	-8.21	3.4E-10	Diastolic blood pressure	
+KICH	cis	1	rs9882329	chr3:41767154	ULK4	chr3:41288091-42003660:-	0.92	7.09	1.22E-8	Diastolic blood pressure	
+KICH	cis	1	rs9988866	chr11:18392983	GTF2H1	chr11:18343816-18388590:+	0.47	5.48	2.36E-6	Pancreatic cancer	
+KICH	trans	1	rs116957176	chr10:21720965	SSX4	chrX:48242968-48252785:+;chrX	0.65	7.8	1.25E-9	Subcutaneous adipose tissue	
+KICH	trans	1	rs11813088	chr10:6924781	SSX4	chrX:48242968-48252785:+;chrX	0.62	9.53	5.9E-12	Migraine	
+KICH	trans	1	rs11816918	chr10:6924429	SSX4	chrX:48242968-48252785:+;chrX	0.68	10.01	1.43E-12	Migraine	
+KICH	trans	1	rs11816922	chr10:6924444	SSX4	chrX:48242968-48252785:+;chrX	0.68	10.01	1.43E-12	Migraine	
+KICH	trans	1	rs11819078	chr10:6921544	SSX4	chrX:48242968-48252785:+;chrX	0.62	9.53	5.9E-12	Migraine	
+KICH	trans	1	rs12064855	chr1:56813606	SSX1	chrX:48114797-48126879:+	0.56	7.79	1.29E-9	Cerebrospinal AB1-42 levels	
+KICH	trans	1	rs12067784	chr1:56815404	SSX1	chrX:48114797-48126879:+	0.56	7.79	1.29E-9	Cerebrospinal AB1-42 levels	
+KICH	trans	1	rs1502645	chr5:3663183	SSX1	chrX:48114797-48126879:+	-0.58	-7.77	1.39E-9	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs2260078	chr6:122350567	SSX1	chrX:48114797-48126879:+	0.6	8.5	1.37E-10	Subcutaneous adipose tissue	
+KICH	trans	1	rs2679689	chr6:122362705	SSX1	chrX:48114797-48126879:+	0.64	8.8	5.44E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2679690	chr6:122362183	SSX1	chrX:48114797-48126879:+	0.64	8.8	5.44E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2679691	chr6:122361992	SSX1	chrX:48114797-48126879:+	0.64	8.8	5.44E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2679692	chr6:122361247	SSX1	chrX:48114797-48126879:+	0.64	8.8	5.44E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2679693	chr6:122360216	SSX1	chrX:48114797-48126879:+	0.65	9.42	8.24E-12	Subcutaneous adipose tissue	
+KICH	trans	1	rs2679695	chr6:122359279	SSX1	chrX:48114797-48126879:+	0.65	9.42	8.24E-12	Subcutaneous adipose tissue	
+KICH	trans	1	rs2679700	chr6:122366731	SSX1	chrX:48114797-48126879:+	0.64	8.87	4.38E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2684261	chr6:122368609	SSX1	chrX:48114797-48126879:+	0.64	8.87	4.38E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2684262	chr6:122366966	SSX1	chrX:48114797-48126879:+	0.64	8.87	4.38E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2684265	chr6:122362037	SSX1	chrX:48114797-48126879:+	0.64	8.8	5.44E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2816122	chr6:122362733	SSX1	chrX:48114797-48126879:+	0.64	8.8	5.44E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2816124	chr6:122361879	SSX1	chrX:48114797-48126879:+	0.64	8.8	5.44E-11	Subcutaneous adipose tissue	
+KICH	trans	1	rs2816125	chr6:122359558	SSX1	chrX:48114797-48126879:+	0.65	9.42	8.24E-12	Subcutaneous adipose tissue	
+KICH	trans	1	rs28875873	chr5:3669224	SSX1	chrX:48114797-48126879:+	-0.58	-7.74	1.53E-9	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs2995101	chr20:23896560	SSX1	chrX:48114797-48126879:+	-0.67	-8.57	1.12E-10	3-hydroxypropylmercapturic acid levels in smokers	
+KICH	trans	1	rs4285363	chr6:1693032	GAGE2B	chrX:49216634-49242997:+	0.69	7.68	1.84E-9	Daytime sleep phenotypes	
+KICH	trans	1	rs4285363	chr6:1693032	GAGE2D	chrX:49197563-49223943:+;chrX	0.69	7.68	1.84E-9	Daytime sleep phenotypes	
+KICH	trans	1	rs4866461	chr5:3672272	SSX1	chrX:48114797-48126879:+	-0.66	-8.69	7.55E-11	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs531558	chr18:32575286	MNT	chr17:2287355-2304258:-	-0.84	-7.76	1.42E-9	Cerebrospinal AB1-42 levels	
+KICH	trans	1	rs60446757	chr2:53474906	SSX1	chrX:48114797-48126879:+	0.67	8.57	1.11E-10	Late-onset Alzheimer's disease	
+KICH	trans	1	rs60701616	chr2:53474728	SSX1	chrX:48114797-48126879:+	0.67	8.57	1.11E-10	Late-onset Alzheimer's disease	
+KICH	trans	1	rs62089877	chr18:8327725	MAGEC2	chrX:141290130-141293076:-	0.95	7.47	3.62E-9	Sitting height ratio	
+KICH	trans	1	rs652740	chr18:8330168	MAGEC2	chrX:141290130-141293076:-	-0.95	-7.47	3.62E-9	Sitting height ratio	
+KICH	trans	1	rs6555212	chr5:3669789	SSX1	chrX:48114797-48126879:+	-0.58	-7.74	1.53E-9	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs6555213	chr5:3669810	SSX1	chrX:48114797-48126879:+	-0.58	-7.74	1.53E-9	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs6736278	chr2:31442875	SSX4	chrX:48242968-48252785:+;chrX	0.69	8.61	9.65E-11	Eosinophilic esophagitis	
+KICH	trans	1	rs6867973	chr5:3670636	SSX1	chrX:48114797-48126879:+	0.55	7.43	4.05E-9	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs6867988	chr5:3670653	SSX1	chrX:48114797-48126879:+	-0.58	-7.74	1.53E-9	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs7085192	chr10:6926123	SSX4	chrX:48242968-48252785:+;chrX	0.62	9.5	6.4E-12	Migraine	
+KICH	trans	1	rs7245165	chr18:32567007	MNT	chr17:2287355-2304258:-	0.86	7.49	3.39E-9	Cerebrospinal AB1-42 levels	
+KICH	trans	1	rs73615056	chr10:6928091	SSX4	chrX:48242968-48252785:+;chrX	0.59	8.71	7.19E-11	Migraine	
+KICH	trans	1	rs73936025	chr2:53488079	NAA11	chr4:80238273-80247171:-	0.95	7.96	7.65E-10	Late-onset Alzheimer's disease	
+KICH	trans	1	rs74324370	chr2:31440164	SSX4	chrX:48242968-48252785:+;chrX	0.7	8.6	1.01E-10	Eosinophilic esophagitis	
+KICH	trans	1	rs76562819	chr2:31440607	SSX4	chrX:48242968-48252785:+;chrX	0.7	8.6	1.01E-10	Eosinophilic esophagitis	
+KICH	trans	1	rs7733481	chr5:3663741	SSX1	chrX:48114797-48126879:+	-0.58	-7.77	1.39E-9	Rheumatoid factor seropositivity in rheumatoid arthritis	
+KICH	trans	1	rs7836436	chr8:121006828	LPPR5	chr1:99355803-99470449:-	0.98	8.06	5.46E-10	HIV-1 viral setpoint	
+KICH	trans	1	rs913611	chr13:106802923	GAGE4	chrX:49216634-49294597:+	0.73	7.5	3.25E-9	Immune reponse to smallpox (secreted IL-2)	
+KICH	trans	1	rs941898	chr14:100599437	C5orf20	chr5:134779905-134783038:-	0.83	8.13	4.43E-10	White matter hyperintensity burden	
+KICH	trans	1	rs9490391	chr6:122368622	SSX1	chrX:48114797-48126879:+	0.64	8.87	4.38E-11	Subcutaneous adipose tissue	

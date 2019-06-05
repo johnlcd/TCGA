@@ -1,0 +1,3 @@
+cancer.type	eQTL.type	tagSNP	LD	SNP.ID	SNP.position.hg19	Gene.symbol	Gene.position.hg19	Beta	t-stat	P-value	GWAS-Traits	
+UCS	cis	1	rs11652797	chr17:79574124	TSPAN10	chr17:79609349-79615778:+	0.79	6.33	4.22E-7	Eye color traits	
+UCS	cis	1	rs4869313	chr5:96223880	ERAP2	chr5:96211644-96255398:+	-0.85	-9.14	1.96E-10	Pediatric autoimmune diseases	

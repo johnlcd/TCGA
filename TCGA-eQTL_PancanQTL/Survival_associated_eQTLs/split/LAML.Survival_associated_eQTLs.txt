@@ -1,0 +1,7 @@
+cancer.type	SNP.ID	SNP.position.hg19	Alleles(A/a)	log-rank.pval	sample.size	Median.survival.time.AA	Median.survival.time.Aa	Median.survival.time.aa	
+LAML	rs10642512	chr6:722740	G/GCT	1.36E-8	111	0	12.68	16.17	
+LAML	rs2287907	chr19:7505566	G/C	7.22E-7	108	15.23	14.18	1	
+LAML	rs2788225	chr6:725040	A/T	2.89E-8	108	0	12.68	15.2	
+LAML	rs2788226	chr6:725479	C/T	1.6E-8	108	0	12.17	16.17	
+LAML	rs383133	chr19:44467096	A/C	4.55E-6	111	18.28	10.65	1.03	
+LAML	rs78230363	chr19:7504017	C/T	7.22E-7	108	15.23	14.18	1	

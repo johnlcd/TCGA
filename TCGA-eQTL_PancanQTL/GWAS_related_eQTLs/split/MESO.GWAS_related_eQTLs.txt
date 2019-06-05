@@ -1,0 +1,523 @@
+cancer.type	eQTL.type	tagSNP	LD	SNP.ID	SNP.position.hg19	Gene.symbol	Gene.position.hg19	Beta	t-stat	P-value	GWAS-Traits	
+MESO	cis	1	rs10037375	chr5:115533407	COMMD10	chr5:115420727-115628978:+	-0.59	-4.83	9.28E-6	Metabolite levels  (X-11787)	
+MESO	cis	1	rs10051747	chr5:56083289	C5orf35	chr5:56205103-56213010:+	0.79	5.21	2.3E-6	Type 2 diabetes	
+MESO	cis	1	rs10064106	chr5:115572158	COMMD10	chr5:115420727-115628978:+	0.59	4.84	8.98E-6	Metabolite levels  (X-11787)	
+MESO	cis	1	rs10157597	chr1:45990278	CCDC163P	chr1:45960581-45965646:-	-0.67	-8.32	1.1E-11	Homocysteine levels	
+MESO	cis	1	rs1016669	chr3:41894440	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1018184	chr6:86648475	SNHG5	chr6:86386726-86388451:-	0.67	5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10212536	chr3:41827026	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs10228845	chr7:21583617	DNAH11	chr7:21582833-21941455:+	-0.58	-6.06	8.88E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs10229224	chr7:21583921	DNAH11	chr7:21582833-21941455:+	-0.58	-6.06	8.88E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs10234309	chr7:135311167	SLC13A4	chr7:135365993-135412933:-	-0.69	-4.78	1.12E-5	Paget's disease	
+MESO	cis	1	rs1025646	chr3:41754422	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs10445300	chr17:2114587	SRR	chr17:2207248-2228553:+	-0.81	-6.14	6.45E-8	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs1044717	chr1:45976587	CCDC163P	chr1:45960581-45965646:-	-0.69	-8.68	2.66E-12	Homocysteine levels	
+MESO	cis	1	rs10455158	chr6:86672825	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10455449	chr6:86592226	SNHG5	chr6:86386726-86388451:-	-0.67	-5.28	1.75E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10455455	chr6:86670214	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10455456	chr6:86670322	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10456622	chr6:49396453	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs10461617	chr5:56104308	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs10470686	chr3:48449956	TREX1	chr3:48501186-48509043:+	-0.41	-4.73	1.32E-5	Longevity	
+MESO	cis	1	rs10498958	chr6:86649705	SNHG5	chr6:86386726-86388451:-	0.67	5.51	7.34E-7	Response to antipsychotic treatment	
+MESO	cis	1	rs1052501	chr3:41925398	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs10736426	chr1:45984353	CCDC163P	chr1:45960581-45965646:-	0.64	8.04	3.32E-11	Homocysteine levels	
+MESO	cis	1	rs10865914	chr3:41919499	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs10890361	chr1:46346234	CCDC163P	chr1:45960581-45965646:-	-0.51	-4.78	1.11E-5	Body mass index	
+MESO	cis	1	rs10944161	chr6:86630376	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10944163	chr6:86658693	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10944169	chr6:86683036	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs10944170	chr6:86685469	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs11123170	chr2:113978940	LOC654433	chr2:113993107-114024579:+	-0.71	-6.26	4.07E-8	Renal function-related traits (BUN)	
+MESO	cis	1	rs11123170	chr2:113978940	PAX8	chr2:113973575-114036498:-	-0.68	-6.14	6.34E-8	Renal function-related traits (BUN)	
+MESO	cis	1	rs11130170	chr3:48449897	TREX1	chr3:48501186-48509043:+	-0.41	-4.73	1.33E-5	Longevity	
+MESO	cis	1	rs111315781	chr2:201738724	PPIL3	chr2:201735680-201753999:-	-0.92	-7.17	1.11E-9	Triptolide cytotoxicity	
+MESO	cis	1	rs11211132	chr1:45990516	CCDC163P	chr1:45960581-45965646:-	-0.67	-8.32	1.1E-11	Homocysteine levels	
+MESO	cis	1	rs1125203	chr3:41760895	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs113333037	chr17:2200106	SRR	chr17:2207248-2228553:+	-0.82	-5.72	3.34E-7	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs1141321	chr6:49412433	MUT	chr6:49398994-49431031:-	0.57	5.27	1.84E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs114960066	chr3:41882323	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs11579634	chr1:46466391	CCDC163P	chr1:45960581-45965646:-	0.5	4.83	9.37E-6	Body mass index	
+MESO	cis	1	rs11671010	chr19:35559474	LOC643719	chr19:35067639-35068596:-	-0.72	-4.73	1.33E-5	Serum albumin level	
+MESO	cis	1	rs11712561	chr3:48435272	TREX1	chr3:48501186-48509043:+	-0.44	-5.1	3.49E-6	Longevity	
+MESO	cis	1	rs11739344	chr5:56111087	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs11758849	chr6:86708262	SNHG5	chr6:86386726-86388451:-	-0.68	-5.05	4.12E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs11759855	chr6:86610841	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1188130	chr8:13173084	C8orf48	chr8:13424352-13425796:+	1.16	5.34	1.4E-6	Obesity-related traits	
+MESO	cis	1	rs11882144	chr19:42072602	CEACAM21	chr19:42055886-42093196:+	0.65	5.65	4.38E-7	Schizophrenia	
+MESO	cis	1	rs11923562	chr3:41760331	ULK4	chr3:41288091-42003660:-	0.84	5.47	8.69E-7	Diastolic blood pressure	
+MESO	cis	1	rs11928580	chr3:41885722	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs11976020	chr7:72247800	TYW1B	chr7:72023729-72298813:-	0.96	7.23	8.74E-10	Educational attainment (years of education)	
+MESO	cis	1	rs12130219	chr1:152162106	FLG	chr1:152274651-152297679:-	0.61	4.69	1.56E-5	Inflammatory skin disease	
+MESO	cis	1	rs12154056	chr6:86634094	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12190598	chr6:86686074	SNHG5	chr6:86386726-86388451:-	-0.66	-4.86	8.27E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12190604	chr6:86716215	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12192992	chr6:86609915	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12196037	chr6:86694631	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12196411	chr6:86779762	SNHG5	chr6:86386726-86388451:-	-0.67	-5.04	4.26E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12196937	chr6:49382808	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs12199516	chr6:86726221	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12199784	chr6:86726808	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12200330	chr6:86656653	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12201571	chr6:86609750	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12201735	chr6:86656939	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12201880	chr6:86627007	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12202075	chr6:49427655	MUT	chr6:49398994-49431031:-	0.61	5.38	1.19E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs12203493	chr6:86758642	SNHG5	chr6:86386726-86388451:-	-0.67	-5.04	4.26E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12203924	chr6:86776412	SNHG5	chr6:86386726-86388451:-	-0.67	-5.04	4.26E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12204015	chr6:86598334	SNHG5	chr6:86386726-86388451:-	-0.62	-4.7	1.5E-5	Response to antipsychotic treatment	
+MESO	cis	1	rs12204365	chr6:86700532	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12205336	chr6:86722367	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12205548	chr6:86759770	SNHG5	chr6:86386726-86388451:-	-0.67	-5.04	4.26E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12207305	chr6:86723502	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12207610	chr6:86688016	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12208493	chr6:86662267	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12209127	chr6:86724427	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12212733	chr6:86726013	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12213149	chr6:86668644	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12213740	chr6:86656733	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12215037	chr6:86727631	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12215903	chr6:86675028	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12216203	chr6:86675301	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12216328	chr6:86703418	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12487542	chr3:48426076	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs12639255	chr3:41861738	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs12661204	chr6:86678586	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12663651	chr6:86701655	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12663690	chr6:86640162	SNHG5	chr6:86386726-86388451:-	0.66	4.73	1.35E-5	Response to antipsychotic treatment	
+MESO	cis	1	rs12664335	chr6:86597774	SNHG5	chr6:86386726-86388451:-	0.7	5.35	1.34E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs12665321	chr6:86769289	SNHG5	chr6:86386726-86388451:-	-0.67	-5.04	4.26E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs13069724	chr3:48478039	TREX1	chr3:48501186-48509043:+	-0.4	-4.86	8.36E-6	Longevity	
+MESO	cis	1	rs13071337	chr3:48438189	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs13087719	chr3:41951576	ULK4	chr3:41288091-42003660:-	-0.88	-5.94	1.41E-7	Diastolic blood pressure	
+MESO	cis	1	rs13194429	chr6:86646705	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs13196930	chr6:86652245	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs13217384	chr6:86720000	SNHG5	chr6:86386726-86388451:-	-0.66	-4.72	1.38E-5	Response to antipsychotic treatment	
+MESO	cis	1	rs13252719	chr8:71734569	XKR9	chr8:71581600-71648176:+	0.81	8.53	4.73E-12	Bone mineral density	
+MESO	cis	1	rs13253842	chr8:71625503	XKR9	chr8:71581600-71648176:+	0.81	8.63	3.22E-12	Bone mineral density	
+MESO	cis	1	rs13314659	chr3:48449149	TREX1	chr3:48501186-48509043:+	0.41	4.96	5.86E-6	Longevity	
+MESO	cis	1	rs13325965	chr3:41914942	ULK4	chr3:41288091-42003660:-	0.83	5.87	1.82E-7	Diastolic blood pressure	
+MESO	cis	1	rs1337844	chr6:86677273	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1337850	chr6:86729103	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1363481	chr5:115541820	COMMD10	chr5:115420727-115628978:+	0.59	4.73	1.32E-5	Metabolite levels  (X-11787)	
+MESO	cis	1	rs1371135	chr15:90391270	AP3S2	chr15:90373832-90456222:-	-0.67	-5.44	9.59E-7	Type 2 diabetes	
+MESO	cis	1	rs1415753	chr6:86753074	SNHG5	chr6:86386726-86388451:-	-0.67	-5.04	4.26E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1423620	chr5:56100996	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs1423621	chr5:56101035	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs1459242	chr3:48413537	TREX1	chr3:48501186-48509043:+	0.41	4.72	1.38E-5	Longevity	
+MESO	cis	1	rs1466389	chr17:2096384	SRR	chr17:2207248-2228553:+	-0.78	-5.83	2.14E-7	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs1541655	chr5:115541277	COMMD10	chr5:115420727-115628978:+	-0.59	-4.73	1.32E-5	Metabolite levels  (X-11787)	
+MESO	cis	1	rs1555569	chr17:2149425	SRR	chr17:2207248-2228553:+	-0.77	-5.89	1.74E-7	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs1559282	chr5:56099375	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs1563736	chr3:48436794	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs1564716	chr3:41862613	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1577917	chr6:86691940	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1577919	chr6:86757296	SNHG5	chr6:86386726-86388451:-	-0.67	-5.04	4.26E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1607908	chr3:41905196	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1612124	chr3:41967893	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1613759	chr3:41906183	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1615243	chr3:41965234	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1615543	chr3:41906404	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1628874	chr3:41955714	ULK4	chr3:41288091-42003660:-	-0.88	-5.94	1.41E-7	Diastolic blood pressure	
+MESO	cis	1	rs1629460	chr3:41927449	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1671400	chr8:13176407	C8orf48	chr8:13424352-13425796:+	-1.06	-4.93	6.46E-6	Obesity-related traits	
+MESO	cis	1	rs1671403	chr8:13174730	C8orf48	chr8:13424352-13425796:+	-1.02	-4.94	6.12E-6	Obesity-related traits	
+MESO	cis	1	rs16876529	chr6:86591202	SNHG5	chr6:86386726-86388451:-	-0.62	-4.7	1.5E-5	Response to antipsychotic treatment	
+MESO	cis	1	rs16952009	chr17:2102437	SRR	chr17:2207248-2228553:+	-0.81	-6.13	6.63E-8	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs17061431	chr3:41792655	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs17062109	chr3:41810364	ULK4	chr3:41288091-42003660:-	0.93	5.95	1.36E-7	Diastolic blood pressure	
+MESO	cis	1	rs17063584	chr3:41861463	ULK4	chr3:41288091-42003660:-	0.89	5.88	1.77E-7	Diastolic blood pressure	
+MESO	cis	1	rs17063599	chr3:41861676	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs17063649	chr3:41863406	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs17064124	chr3:41890803	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716642	chr3:41965865	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716644	chr3:41968028	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716651	chr3:41975099	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716657	chr3:41918456	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716660	chr3:41929960	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716661	chr3:41962818	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716664	chr3:41948378	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716668	chr3:41907850	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716669	chr3:41908681	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716676	chr3:41903208	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716683	chr3:41923074	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716685	chr3:41925301	ULK4	chr3:41288091-42003660:-	0.8	5.32	1.52E-6	Diastolic blood pressure	
+MESO	cis	1	rs1716688	chr3:41926546	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716690	chr3:41922102	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716692	chr3:41983786	ULK4	chr3:41288091-42003660:-	-0.87	-5.72	3.26E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716693	chr3:41985600	ULK4	chr3:41288091-42003660:-	-0.87	-5.65	4.33E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716696	chr3:41935811	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716984	chr3:41965532	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716987	chr3:41970516	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716993	chr3:41974556	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716997	chr3:41924333	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1716999	chr3:41930041	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717000	chr3:41930219	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717001	chr3:41934949	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717006	chr3:41940448	ULK4	chr3:41288091-42003660:-	0.86	5.61	4.96E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717009	chr3:41946308	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717011	chr3:41980199	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717014	chr3:41917395	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717017	chr3:41915616	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717020	chr3:41981490	ULK4	chr3:41288091-42003660:-	0.86	5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717021	chr3:41983860	ULK4	chr3:41288091-42003660:-	-0.87	-5.72	3.26E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717024	chr3:41984888	ULK4	chr3:41288091-42003660:-	-0.88	-5.81	2.29E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717027	chr3:41987920	ULK4	chr3:41288091-42003660:-	-0.87	-5.65	4.33E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717031	chr3:41905791	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1717033	chr3:41910216	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs17433780	chr1:89474818	GBP3	chr1:89472367-89488549:-	0.9	9.45	1.28E-13	Carotid intima media thickness	
+MESO	cis	1	rs17538840	chr2:61077817	C2orf74	chr2:61372243-61391964:+	-0.73	-5.02	4.7E-6	Inflammatory skin disease	
+MESO	cis	1	rs17608059	chr17:13910549	CDRT15P	chr17:13927815-13928915:+	-0.63	-4.94	6.33E-6	Temperament	
+MESO	cis	1	rs17761723	chr17:2107090	SRR	chr17:2207248-2228553:+	0.84	6.29	3.51E-8	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs17761864	chr17:2171637	SRR	chr17:2207248-2228553:+	-0.72	-5.25	1.97E-6	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs17801135	chr8:13173319	C8orf48	chr8:13424352-13425796:+	1.02	5.25	1.98E-6	Obesity-related traits	
+MESO	cis	1	rs17834627	chr17:2198892	SRR	chr17:2207248-2228553:+	-0.82	-5.72	3.29E-7	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs1833896	chr5:56097669	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs1857964	chr6:86635994	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1857965	chr6:86630776	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1862619	chr5:56098256	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs1885986	chr17:2203175	SRR	chr17:2207248-2228553:+	-0.82	-5.67	3.98E-7	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs190414	chr5:56116772	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs1911553	chr6:86630892	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1930961	chr22:25875265	CRYBB2	chr22:25615612-25627836:+	0.96	5.39	1.15E-6	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs1962716	chr6:86648436	SNHG5	chr6:86386726-86388451:-	-0.66	-5.06	3.99E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1994157	chr3:41897482	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs1995688	chr6:86632319	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs1999852	chr6:86705738	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs2018519	chr19:35559787	LOC643719	chr19:35067639-35068596:-	-0.72	-4.73	1.33E-5	Serum albumin level	
+MESO	cis	1	rs2077808	chr1:45988115	CCDC163P	chr1:45960581-45965646:-	-0.67	-8.32	1.1E-11	Homocysteine levels	
+MESO	cis	1	rs2113078	chr5:56087190	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs2113079	chr5:56157951	C5orf35	chr5:56205103-56213010:+	0.83	5.5	7.78E-7	Type 2 diabetes	
+MESO	cis	1	rs2128834	chr3:41862645	ULK4	chr3:41288091-42003660:-	0.84	5.7	3.58E-7	Diastolic blood pressure	
+MESO	cis	1	rs2128835	chr3:41862873	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs2130392	chr4:185639169	MLF1IP	chr4:185615220-185655286:-	-0.57	-6.3	3.5E-8	Kawasaki disease	
+MESO	cis	1	rs2166663	chr6:86593896	SNHG5	chr6:86386726-86388451:-	-0.62	-4.7	1.5E-5	Response to antipsychotic treatment	
+MESO	cis	1	rs2242150	chr3:48505964	TREX1	chr3:48501186-48509043:+	0.39	4.73	1.32E-5	Longevity	
+MESO	cis	1	rs2272006	chr3:41997059	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs2272007	chr3:41996136	ULK4	chr3:41288091-42003660:-	-0.88	-5.81	2.29E-7	Diastolic blood pressure	
+MESO	cis	1	rs2277862	chr20:34152782	CPNE1	chr20:34213968-34262539:-	-0.94	-5.62	4.75E-7	Cholesterol, total	
+MESO	cis	1	rs2285946	chr7:21583329	DNAH11	chr7:21582833-21941455:+	-0.58	-6.06	8.88E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs2285947	chr7:21584088	DNAH11	chr7:21582833-21941455:+	0.6	6.22	4.64E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs2285949	chr7:21584243	DNAH11	chr7:21582833-21941455:+	-0.58	-6.06	8.88E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs2285950	chr7:21584432	DNAH11	chr7:21582833-21941455:+	0.6	6.22	4.64E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs2292239	chr12:56482180	RPS26	chr12:56435686-56438005:+	1.32	9.31	2.21E-13	Cognitive function	
+MESO	cis	1	rs2324843	chr6:86617501	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs2356559	chr1:45981512	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.33	1.06E-11	Homocysteine levels	
+MESO	cis	1	rs2356561	chr1:45980862	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.41	7.59E-12	Homocysteine levels	
+MESO	cis	1	rs2362452	chr3:48418214	TREX1	chr3:48501186-48509043:+	0.42	4.92	6.62E-6	Longevity	
+MESO	cis	1	rs2371623	chr3:41761083	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs2371627	chr3:41839219	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs2432195	chr5:56120413	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs2448707	chr6:49446951	MUT	chr6:49398994-49431031:-	-0.61	-5.48	8.15E-7	Folate pathway vitamin levels	
+MESO	cis	1	rs2501962	chr6:49453636	MUT	chr6:49398994-49431031:-	-0.61	-5.48	8.15E-7	Folate pathway vitamin levels	
+MESO	cis	1	rs2501963	chr6:49454281	MUT	chr6:49398994-49431031:-	-0.61	-5.48	8.15E-7	Folate pathway vitamin levels	
+MESO	cis	1	rs252887	chr5:56166188	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs252898	chr5:56188931	C5orf35	chr5:56205103-56213010:+	0.86	5.96	1.3E-7	Type 2 diabetes	
+MESO	cis	1	rs252902	chr5:56116085	C5orf35	chr5:56205103-56213010:+	0.84	5.67	4.05E-7	Type 2 diabetes	
+MESO	cis	1	rs252904	chr5:56118733	C5orf35	chr5:56205103-56213010:+	0.86	6.32	3.14E-8	Type 2 diabetes	
+MESO	cis	1	rs252909	chr5:56121131	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs252910	chr5:56192983	C5orf35	chr5:56205103-56213010:+	0.87	5.9	1.66E-7	Type 2 diabetes	
+MESO	cis	1	rs252915	chr5:56121754	C5orf35	chr5:56205103-56213010:+	-0.86	-6.25	4.18E-8	Type 2 diabetes	
+MESO	cis	1	rs252916	chr5:56121788	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs252919	chr5:56124111	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs252921	chr5:56137787	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs252922	chr5:56136343	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs2548664	chr5:56133555	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs2548665	chr5:56131805	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs2625667	chr3:41900951	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs2625668	chr3:41905930	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs2683695	chr3:41914928	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs2683696	chr3:41914898	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs28702390	chr3:41889920	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs28733681	chr3:41863444	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs28755797	chr3:41774446	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs28824259	chr3:48425675	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs2885510	chr3:48418226	TREX1	chr3:48501186-48509043:+	0.42	4.92	6.62E-6	Longevity	
+MESO	cis	1	rs2993259	chr1:46001550	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.33	1.06E-11	Homocysteine levels	
+MESO	cis	1	rs3091242	chr1:25674785	RHD	chr1:25598981-25656935:+	-0.62	-5.32	1.51E-6	Erythrocyte sedimentation rate	
+MESO	cis	1	rs3099459	chr5:56137170	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs3204270	chr17:79682051	ARL16	chr17:79648234-79650954:-	-0.79	-5.28	1.77E-6	Dental caries	
+MESO	cis	1	rs3214041	chr3:48454468	TREX1	chr3:48501186-48509043:+	-0.41	-4.73	1.32E-5	Longevity	
+MESO	cis	1	rs33322	chr5:56175226	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs33325	chr5:56142547	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs33326	chr5:56142601	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs34106666	chr6:86676258	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs34281561	chr6:86701872	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs34581302	chr6:86705948	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs34622557	chr6:86630852	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs34852683	chr6:86702330	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs35419329	chr6:86702291	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs35761942	chr6:86629504	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs35797755	chr6:86706554	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs36096931	chr6:86693134	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs3745937	chr19:42071289	CEACAM21	chr19:42055886-42093196:+	0.63	5.21	2.33E-6	Schizophrenia	
+MESO	cis	1	rs3774372	chr3:41877414	ULK4	chr3:41288091-42003660:-	0.85	5.75	2.94E-7	Diastolic blood pressure	
+MESO	cis	1	rs3796689	chr4:185649866	MLF1IP	chr4:185615220-185655286:-	-0.56	-5.81	2.34E-7	Kawasaki disease	
+MESO	cis	1	rs3806988	chr6:49431569	MUT	chr6:49398994-49431031:-	0.56	5.31	1.57E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs3823114	chr6:49431720	MUT	chr6:49398994-49431031:-	0.61	5.48	8.15E-7	Folate pathway vitamin levels	
+MESO	cis	1	rs3890604	chr3:41760625	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs3934103	chr3:41977214	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs4267943	chr6:49439805	MUT	chr6:49398994-49431031:-	-0.6	-5.35	1.36E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs43184	chr5:56141777	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs4408846	chr3:41753679	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs4469291	chr6:49440614	MUT	chr6:49398994-49431031:-	0.61	5.48	8.15E-7	Folate pathway vitamin levels	
+MESO	cis	1	rs4660306	chr1:45978675	CCDC163P	chr1:45960581-45965646:-	0.65	8.38	8.76E-12	Homocysteine levels	
+MESO	cis	1	rs4660870	chr1:45995231	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.26	1.4E-11	Homocysteine levels	
+MESO	cis	1	rs4715129	chr6:49415043	MUT	chr6:49398994-49431031:-	0.61	5.32	1.5E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs4715130	chr6:49416825	MUT	chr6:49398994-49431031:-	0.58	5.25	1.94E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs473073	chr10:131429646	MGMT	chr10:131265454-131565783:+	0.48	4.93	6.56E-6	Response to temozolomide	
+MESO	cis	1	rs473771	chr10:131408155	MGMT	chr10:131265454-131565783:+	0.5	5.5	7.62E-7	Response to temozolomide	
+MESO	cis	1	rs4750759	chr10:131436603	MGMT	chr10:131265454-131565783:+	-0.46	-4.77	1.17E-5	Response to temozolomide	
+MESO	cis	1	rs4759229	chr12:56474480	RPS26	chr12:56435686-56438005:+	-1.33	-9.22	3.12E-13	Cognitive function	
+MESO	cis	1	rs477692	chr10:131426022	MGMT	chr10:131265454-131565783:+	0.5	5.57	5.89E-7	Response to temozolomide	
+MESO	cis	1	rs479478	chr10:131428959	MGMT	chr10:131265454-131565783:+	0.48	4.93	6.56E-6	Response to temozolomide	
+MESO	cis	1	rs4803480	chr19:42066279	CEACAM21	chr19:42055886-42093196:+	0.6	4.87	8.09E-6	Schizophrenia	
+MESO	cis	1	rs480643	chr10:131400308	MGMT	chr10:131265454-131565783:+	0.48	5.31	1.55E-6	Response to temozolomide	
+MESO	cis	1	rs4815417	chr20:25379526	GINS1	chr20:25388323-25429191:+	-0.31	-4.72	1.39E-5	Liver enzyme levels (alkaline phosphatase)	
+MESO	cis	1	rs485576	chr10:131425496	MGMT	chr10:131265454-131565783:+	0.5	5.57	5.89E-7	Response to temozolomide	
+MESO	cis	1	rs4858817	chr3:48416756	TREX1	chr3:48501186-48509043:+	0.41	4.73	1.35E-5	Longevity	
+MESO	cis	1	rs4862406	chr4:185629339	MLF1IP	chr4:185615220-185655286:-	0.56	6.05	9.08E-8	Kawasaki disease	
+MESO	cis	1	rs4869313	chr5:96223880	ERAP2	chr5:96211644-96255398:+	-0.92	-8.24	1.5E-11	Pediatric autoimmune diseases	
+MESO	cis	1	rs4973991	chr3:41927273	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs503660	chr10:131418999	MGMT	chr10:131265454-131565783:+	0.48	5.32	1.51E-6	Response to temozolomide	
+MESO	cis	1	rs506274	chr10:131409392	MGMT	chr10:131265454-131565783:+	0.48	5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs508303	chr10:131424996	MGMT	chr10:131265454-131565783:+	-0.48	-5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs513736	chr10:131406489	MGMT	chr10:131265454-131565783:+	0.48	5.4	1.11E-6	Response to temozolomide	
+MESO	cis	1	rs516704	chr10:131419879	MGMT	chr10:131265454-131565783:+	0.49	5.38	1.21E-6	Response to temozolomide	
+MESO	cis	1	rs522891	chr10:131430916	MGMT	chr10:131265454-131565783:+	-0.45	-4.71	1.43E-5	Response to temozolomide	
+MESO	cis	1	rs530466	chr10:131427717	MGMT	chr10:131265454-131565783:+	0.48	5.01	4.79E-6	Response to temozolomide	
+MESO	cis	1	rs531572	chr10:131427569	MGMT	chr10:131265454-131565783:+	-0.51	-5.44	9.6E-7	Response to temozolomide	
+MESO	cis	1	rs538969	chr10:131410608	MGMT	chr10:131265454-131565783:+	0.48	5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs548390	chr10:131417427	MGMT	chr10:131265454-131565783:+	0.48	5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs553371	chr10:131413676	MGMT	chr10:131265454-131565783:+	0.48	5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs554792	chr10:131423181	MGMT	chr10:131265454-131565783:+	0.49	5.38	1.21E-6	Response to temozolomide	
+MESO	cis	1	rs55781567	chr15:78857986	CHRNA5	chr15:78857906-78886458:+	-0.5	-4.77	1.15E-5	Post bronchodilator FEV1;Emphysema imaging phenotypes;Local histogram emphysema pattern;Emphysema distribution in smoking;Post bronchodilator FEV1/FVC ratio in COPD;Post bronchodilator FEV1/FVC ratio	
+MESO	cis	1	rs558764	chr10:131426957	MGMT	chr10:131265454-131565783:+	-0.48	-5.5	7.51E-7	Response to temozolomide	
+MESO	cis	1	rs56043407	chr17:2166078	SRR	chr17:2207248-2228553:+	-0.77	-5.89	1.74E-7	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs56121764	chr3:41883975	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs56158380	chr3:41885588	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs56207540	chr3:41976627	ULK4	chr3:41288091-42003660:-	1.04	5.33	1.46E-6	Diastolic blood pressure	
+MESO	cis	1	rs565974	chr10:131423274	MGMT	chr10:131265454-131565783:+	0.49	5.38	1.21E-6	Response to temozolomide	
+MESO	cis	1	rs567700	chr10:131423126	MGMT	chr10:131265454-131565783:+	0.49	5.38	1.21E-6	Response to temozolomide	
+MESO	cis	1	rs56776628	chr3:41866856	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs569235	chr10:131411620	MGMT	chr10:131265454-131565783:+	0.48	5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs57479675	chr3:41798038	ULK4	chr3:41288091-42003660:-	0.84	5.58	5.64E-7	Diastolic blood pressure	
+MESO	cis	1	rs577227	chr10:131404528	MGMT	chr10:131265454-131565783:+	0.48	5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs580745	chr10:131414401	MGMT	chr10:131265454-131565783:+	0.48	5.35	1.37E-6	Response to temozolomide	
+MESO	cis	1	rs59226697	chr22:25870037	CRYBB2	chr22:25615612-25627836:+	1.07	5.15	2.88E-6	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs5996946	chr22:25875988	CRYBB2	chr22:25615612-25627836:+	1.06	5.69	3.66E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs6004667	chr22:25874464	CRYBB2	chr22:25615612-25627836:+	-1.04	-5.04	4.33E-6	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs6004668	chr22:25874502	CRYBB2	chr22:25615612-25627836:+	-0.98	-5.62	4.89E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs6004669	chr22:25875803	CRYBB2	chr22:25615612-25627836:+	1.06	5.69	3.66E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs6004671	chr22:25879474	CRYBB2	chr22:25615612-25627836:+	1.06	5.69	3.66E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs6004672	chr22:25881013	CRYBB2	chr22:25615612-25627836:+	1.06	5.69	3.66E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs6004673	chr22:25885353	CRYBB2	chr22:25615612-25627836:+	1.09	5.42	1.04E-6	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs6004675	chr22:25889385	CRYBB2	chr22:25615612-25627836:+	1.06	5.06	3.96E-6	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs60982898	chr6:49385806	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs6120974	chr20:34126827	CPNE1	chr20:34213968-34262539:-	-0.94	-5.54	6.54E-7	Triglycerides	
+MESO	cis	1	rs6151429	chr22:51063477	ARSA	chr22:51063450-51066607:-	-0.8	-7.78	9.51E-11	Blood metabolite levels	
+MESO	cis	1	rs61744385	chr3:41756986	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs61744388	chr3:41756965	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs6429567	chr1:45956700	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.61	3.54E-12	Homocysteine levels	
+MESO	cis	1	rs6429569	chr1:46001330	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.06	3.18E-11	Homocysteine levels	
+MESO	cis	1	rs6442117	chr3:48419897	TREX1	chr3:48501186-48509043:+	0.42	4.92	6.62E-6	Longevity	
+MESO	cis	1	rs6442118	chr3:48440047	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs6442119	chr3:48440178	TREX1	chr3:48501186-48509043:+	-0.45	-5.52	7.2E-7	Longevity	
+MESO	cis	1	rs6450408	chr5:56098146	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs6450409	chr5:56101399	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs6458690	chr6:49411619	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs6458694	chr6:49445306	MUT	chr6:49398994-49431031:-	0.61	5.48	8.15E-7	Folate pathway vitamin levels	
+MESO	cis	1	rs646867	chr1:25709258	RHD	chr1:25598981-25656935:+	-0.55	-4.73	1.34E-5	Erythrocyte sedimentation rate	
+MESO	cis	1	rs6579245	chr20:34125271	CPNE1	chr20:34213968-34262539:-	-0.93	-5.48	8.4E-7	Cholesterol, total	
+MESO	cis	1	rs6599170	chr3:41772718	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs6599175	chr3:41786009	ULK4	chr3:41288091-42003660:-	-0.86	-6.35	2.77E-8	Diastolic blood pressure	
+MESO	cis	1	rs6599176	chr3:41788492	ULK4	chr3:41288091-42003660:-	-0.78	-5.01	4.87E-6	Diastolic blood pressure	
+MESO	cis	1	rs6599178	chr3:41842129	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs6599179	chr3:41855284	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs665191	chr11:65493658	SAC3D1	chr11:64808373-64812299:+	0.55	4.73	1.33E-5	Atopic dermatitis	
+MESO	cis	1	rs6667191	chr1:45982844	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.33	1.06E-11	Homocysteine levels	
+MESO	cis	1	rs6759004	chr2:202004676	PPIL3	chr2:201735680-201753999:-	-0.89	-6.4	2.36E-8	Triptolide cytotoxicity	
+MESO	cis	1	rs6763829	chr3:41897046	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6768128	chr3:41865080	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6768542	chr3:41865474	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6768563	chr3:41865541	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6770470	chr3:48435123	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs6781326	chr3:41777028	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs6783001	chr3:41862232	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6784322	chr3:48422235	TREX1	chr3:48501186-48509043:+	-0.41	-4.78	1.13E-5	Longevity	
+MESO	cis	1	rs6789260	chr3:41776350	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs6790732	chr3:41864872	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6791806	chr3:41889995	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6796210	chr3:41851718	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs6796491	chr3:48430465	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs6797165	chr3:41887777	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6801343	chr3:41767234	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs6802340	chr3:41894034	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6803560	chr3:41824480	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs6803652	chr3:41824556	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs6804774	chr3:48430617	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs6805880	chr3:41865397	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs6807015	chr3:41754514	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs6810060	chr3:48434748	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs68171315	chr6:86707400	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs6885541	chr5:56110857	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs6886034	chr5:115543761	COMMD10	chr5:115420727-115628978:+	0.59	4.73	1.32E-5	Metabolite levels  (X-11787)	
+MESO	cis	1	rs6886621	chr5:115543792	COMMD10	chr5:115420727-115628978:+	0.59	4.73	1.32E-5	Metabolite levels  (X-11787)	
+MESO	cis	1	rs6923124	chr6:49419864	MUT	chr6:49398994-49431031:-	0.61	5.32	1.5E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs6933377	chr6:86705255	SNHG5	chr6:86386726-86388451:-	0.55	4.8	1.03E-5	Response to antipsychotic treatment	
+MESO	cis	1	rs6936048	chr6:86702608	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs6940458	chr6:86644992	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs6970597	chr7:21583519	DNAH11	chr7:21582833-21941455:+	-0.58	-6.04	9.52E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs6970985	chr7:21583597	DNAH11	chr7:21582833-21941455:+	-0.58	-6.06	8.88E-8	Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	
+MESO	cis	1	rs7007450	chr8:71640269	XKR9	chr8:71581600-71648176:+	0.81	8.63	3.22E-12	Bone mineral density	
+MESO	cis	1	rs7017914	chr8:71591203	XKR9	chr8:71581600-71648176:+	0.81	8.63	3.22E-12	Bone mineral density	
+MESO	cis	1	rs705696	chr12:56480648	RPS26	chr12:56435686-56438005:+	1.33	8.96	8.72E-13	Cognitive function	
+MESO	cis	1	rs7072216	chr10:100156853	PYROXD2	chr10:100143323-100174978:-	0.75	5.28	1.73E-6	Metabolite levels	
+MESO	cis	1	rs725309	chr3:48418708	TREX1	chr3:48501186-48509043:+	0.42	4.92	6.62E-6	Longevity	
+MESO	cis	1	rs725310	chr3:48418571	TREX1	chr3:48501186-48509043:+	0.43	5.02	4.6E-6	Longevity	
+MESO	cis	1	rs7255679	chr19:42063981	CEACAM21	chr19:42055886-42093196:+	0.61	4.86	8.48E-6	Schizophrenia	
+MESO	cis	1	rs72819593	chr17:2199489	SRR	chr17:2207248-2228553:+	-0.82	-5.72	3.29E-7	Esophageal cancer (squamous cell)	
+MESO	cis	1	rs7285549	chr22:25874580	CRYBB2	chr22:25615612-25627836:+	0.98	5.62	4.89E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs73069392	chr3:41787009	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs73069394	chr3:41787233	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs73069396	chr3:41787236	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs73071329	chr3:41810539	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs73074358	chr3:48427247	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs73077367	chr3:41851959	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs73079316	chr3:41863859	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs73079321	chr3:41863910	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs73081353	chr3:41906448	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs73081364	chr3:41913616	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs7372217	chr3:41990122	ULK4	chr3:41288091-42003660:-	-0.87	-5.65	4.33E-7	Diastolic blood pressure	
+MESO	cis	1	rs7475154	chr10:131440584	MGMT	chr10:131265454-131565783:+	-0.46	-4.73	1.33E-5	Response to temozolomide	
+MESO	cis	1	rs7522705	chr1:45992300	CCDC163P	chr1:45960581-45965646:-	0.69	8.41	7.57E-12	Homocysteine levels	
+MESO	cis	1	rs7534467	chr1:45988691	CCDC163P	chr1:45960581-45965646:-	-0.67	-8.32	1.1E-11	Homocysteine levels	
+MESO	cis	1	rs7536557	chr1:45992114	CCDC163P	chr1:45960581-45965646:-	-0.68	-8.33	1.06E-11	Homocysteine levels	
+MESO	cis	1	rs7591472	chr2:201889751	PPIL3	chr2:201735680-201753999:-	-0.94	-7.51	2.82E-10	Triptolide cytotoxicity	
+MESO	cis	1	rs760554	chr22:25872592	CRYBB2	chr22:25615612-25627836:+	0.98	5.62	4.89E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs760555	chr22:25872837	CRYBB2	chr22:25615612-25627836:+	0.98	5.62	4.89E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs7616844	chr3:41874343	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs7617397	chr3:41959037	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs7622259	chr3:41881351	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs7624372	chr3:41881107	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs7630741	chr3:48419723	TREX1	chr3:48501186-48509043:+	-0.42	-4.92	6.68E-6	Longevity	
+MESO	cis	1	rs7631057	chr3:41817951	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs7632387	chr3:41853161	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs7634377	chr3:48421258	TREX1	chr3:48501186-48509043:+	-0.42	-4.92	6.62E-6	Longevity	
+MESO	cis	1	rs7635522	chr3:48423656	TREX1	chr3:48501186-48509043:+	-0.46	-5.21	2.28E-6	Longevity	
+MESO	cis	1	rs7636782	chr3:48421387	TREX1	chr3:48501186-48509043:+	-0.42	-4.92	6.62E-6	Longevity	
+MESO	cis	1	rs7646144	chr3:41853125	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs76471037	chr3:41799414	ULK4	chr3:41288091-42003660:-	0.84	5.58	5.64E-7	Diastolic blood pressure	
+MESO	cis	1	rs7648357	chr3:41849670	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs7648578	chr3:41858731	ULK4	chr3:41288091-42003660:-	0.8	5.17	2.63E-6	Diastolic blood pressure	
+MESO	cis	1	rs7650227	chr3:41794937	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs7651407	chr3:48443816	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.63E-6	Longevity	
+MESO	cis	1	rs7653691	chr3:48419689	TREX1	chr3:48501186-48509043:+	0.42	4.92	6.62E-6	Longevity	
+MESO	cis	1	rs7705093	chr5:96290647	ERAP2	chr5:96211644-96255398:+	1.1	12.31	2.67E-18	Birdshot chorioretinopathy	
+MESO	cis	1	rs7709377	chr5:115540573	COMMD10	chr5:115420727-115628978:+	0.59	4.73	1.32E-5	Metabolite levels  (X-11787)	
+MESO	cis	1	rs7750918	chr6:49430082	MUT	chr6:49398994-49431031:-	0.58	5.37	1.25E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs7756203	chr6:86627707	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs7760207	chr6:86721700	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs7771342	chr6:86631936	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs79548696	chr3:41803385	ULK4	chr3:41288091-42003660:-	0.84	5.58	5.64E-7	Diastolic blood pressure	
+MESO	cis	1	rs8031948	chr15:78816057	CHRNA5	chr15:78857906-78886458:+	-0.5	-4.73	1.34E-5	Post bronchodilator FEV1;Emphysema imaging phenotypes;Local histogram emphysema pattern;Emphysema distribution in smoking;Post bronchodilator FEV1/FVC ratio in COPD;Post bronchodilator FEV1/FVC ratio	
+MESO	cis	1	rs8034191	chr15:78806023	CHRNA5	chr15:78857906-78886458:+	-0.5	-4.74	1.28E-5	Post bronchodilator FEV1;Emphysema imaging phenotypes;Local histogram emphysema pattern;Emphysema distribution in smoking;Post bronchodilator FEV1/FVC ratio in COPD;Post bronchodilator FEV1/FVC ratio	
+MESO	cis	1	rs832551	chr5:56180112	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs832553	chr5:56114786	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs832554	chr5:56115036	C5orf35	chr5:56205103-56213010:+	0.86	6.32	3.14E-8	Type 2 diabetes	
+MESO	cis	1	rs832565	chr5:56150803	C5orf35	chr5:56205103-56213010:+	0.84	5.76	2.83E-7	Type 2 diabetes	
+MESO	cis	1	rs832568	chr5:56153776	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs832569	chr5:56154584	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs832578	chr5:56164223	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs832582	chr5:56177743	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs832583	chr5:56178217	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs832584	chr5:56179212	C5orf35	chr5:56205103-56213010:+	-0.83	-5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs860580	chr5:56149429	C5orf35	chr5:56205103-56213010:+	-0.84	-5.67	4.05E-7	Type 2 diabetes	
+MESO	cis	1	rs861283	chr5:56184610	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs863840	chr5:56128999	C5orf35	chr5:56205103-56213010:+	0.79	5.42	1.03E-6	Type 2 diabetes	
+MESO	cis	1	rs866222	chr5:56184444	C5orf35	chr5:56205103-56213010:+	0.83	5.72	3.26E-7	Type 2 diabetes	
+MESO	cis	1	rs873686	chr4:185638876	MLF1IP	chr4:185615220-185655286:-	0.5	5.04	4.38E-6	Kawasaki disease	
+MESO	cis	1	rs877636	chr12:56480583	RPS26	chr12:56435686-56438005:+	-1.28	-9.06	5.93E-13	Cognitive function	
+MESO	cis	1	rs882803	chr1:45976147	CCDC163P	chr1:45960581-45965646:-	-0.69	-8.68	2.66E-12	Homocysteine levels	
+MESO	cis	1	rs884841	chr6:86680300	SNHG5	chr6:86386726-86388451:-	-0.67	-5.26	1.87E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs898225	chr3:48413179	TREX1	chr3:48501186-48509043:+	0.41	4.72	1.4E-5	Longevity	
+MESO	cis	1	rs919586	chr8:13174671	C8orf48	chr8:13424352-13425796:+	-1.17	-5.4	1.12E-6	Obesity-related traits	
+MESO	cis	1	rs9283717	chr5:56078659	C5orf35	chr5:56205103-56213010:+	0.86	6.31	3.25E-8	Type 2 diabetes	
+MESO	cis	1	rs9296404	chr6:42925803	PEX6	chr6:42931613-42946981:-	0.84	7.4	4.33E-10	Plasma homocysteine levels (post-methionine load test)	
+MESO	cis	1	rs9296616	chr6:49414235	MUT	chr6:49398994-49431031:-	0.58	5.25	1.94E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9296617	chr6:49428360	MUT	chr6:49398994-49431031:-	0.61	5.38	1.19E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9311288	chr3:41804581	ULK4	chr3:41288091-42003660:-	0.84	5.58	5.64E-7	Diastolic blood pressure	
+MESO	cis	1	rs9311423	chr3:48420308	TREX1	chr3:48501186-48509043:+	-0.42	-4.92	6.62E-6	Longevity	
+MESO	cis	1	rs939558	chr3:41976040	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs9463473	chr6:49380121	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9463474	chr6:49380199	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9463475	chr6:49380899	MUT	chr6:49398994-49431031:-	-0.61	-5.32	1.5E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9463477	chr6:49386446	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9463479	chr6:49393275	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9463480	chr6:49400795	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9473549	chr6:49380020	MUT	chr6:49398994-49431031:-	0.57	5.27	1.84E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9473552	chr6:49387154	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9473553	chr6:49395977	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9473555	chr6:49409487	MUT	chr6:49398994-49431031:-	0.59	5.35	1.37E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9473560	chr6:49427918	MUT	chr6:49398994-49431031:-	0.61	5.38	1.19E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9473561	chr6:49428755	MUT	chr6:49398994-49431031:-	0.61	5.38	1.19E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs9473563	chr6:49453651	MUT	chr6:49398994-49431031:-	0.58	5.37	1.25E-6	Folate pathway vitamin levels	
+MESO	cis	1	rs955196	chr6:86729951	SNHG5	chr6:86386726-86388451:-	0.68	5.41	1.09E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs955197	chr6:86729675	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs955227	chr6:86651032	SNHG5	chr6:86386726-86388451:-	-0.67	-5.27	1.82E-6	Response to antipsychotic treatment	
+MESO	cis	1	rs9689	chr1:25688276	RHD	chr1:25598981-25656935:+	-0.57	-4.87	8.18E-6	Erythrocyte sedimentation rate	
+MESO	cis	1	rs9809843	chr3:48434398	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs9812647	chr3:48448914	TREX1	chr3:48501186-48509043:+	0.42	4.7	1.5E-5	Longevity	
+MESO	cis	1	rs9815103	chr3:48414215	TREX1	chr3:48501186-48509043:+	-0.41	-4.72	1.39E-5	Longevity	
+MESO	cis	1	rs9815354	chr3:41912651	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9818169	chr3:41860599	ULK4	chr3:41288091-42003660:-	0.88	5.76	2.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs9820192	chr3:41889281	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9823254	chr3:41894768	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9824731	chr3:41889698	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9825741	chr3:41761828	ULK4	chr3:41288091-42003660:-	-0.78	-5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9826058	chr3:41762062	ULK4	chr3:41288091-42003660:-	0.78	5.15	2.81E-6	Diastolic blood pressure	
+MESO	cis	1	rs9826195	chr3:48433635	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.61E-6	Longevity	
+MESO	cis	1	rs9828398	chr3:41895893	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9830064	chr3:41881801	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9830469	chr3:41762535	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9834098	chr3:41833493	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs9838618	chr3:48487353	TREX1	chr3:48501186-48509043:+	-0.41	-4.82	9.68E-6	Longevity	
+MESO	cis	1	rs9838965	chr3:41927938	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9839399	chr3:41928044	ULK4	chr3:41288091-42003660:-	-0.87	-5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9840037	chr3:41827522	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs9840532	chr3:41885697	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9842261	chr3:41822708	ULK4	chr3:41288091-42003660:-	-0.8	-5.17	2.63E-6	Diastolic blood pressure	
+MESO	cis	1	rs9842305	chr3:41998412	ULK4	chr3:41288091-42003660:-	-0.86	-5.78	2.63E-7	Diastolic blood pressure	
+MESO	cis	1	rs9846634	chr3:41894049	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9847006	chr3:41755359	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs9847975	chr3:41786904	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9848754	chr3:41753647	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs9852303	chr3:41759525	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9854833	chr3:41775577	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9854838	chr3:41805670	ULK4	chr3:41288091-42003660:-	0.84	5.58	5.64E-7	Diastolic blood pressure	
+MESO	cis	1	rs9855965	chr3:41860508	ULK4	chr3:41288091-42003660:-	0.88	5.76	2.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs9856088	chr3:41860482	ULK4	chr3:41288091-42003660:-	0.88	5.76	2.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs9856633	chr3:42013850	ULK4	chr3:41288091-42003660:-	0.78	5.28	1.76E-6	Diastolic blood pressure	
+MESO	cis	1	rs9857175	chr3:41822054	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs9863915	chr3:41762002	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9864217	chr3:41762206	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9864371	chr3:48426766	TREX1	chr3:48501186-48509043:+	-0.43	-5.02	4.63E-6	Longevity	
+MESO	cis	1	rs9865127	chr3:41807448	ULK4	chr3:41288091-42003660:-	0.85	5.66	4.13E-7	Diastolic blood pressure	
+MESO	cis	1	rs9865780	chr3:41895802	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9866092	chr3:41895967	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9866759	chr3:41758418	ULK4	chr3:41288091-42003660:-	0.78	5.18	2.56E-6	Diastolic blood pressure	
+MESO	cis	1	rs9867627	chr3:41795841	ULK4	chr3:41288091-42003660:-	-0.78	-5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9869207	chr3:41878661	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9869282	chr3:41756064	ULK4	chr3:41288091-42003660:-	0.81	5.41	1.07E-6	Diastolic blood pressure	
+MESO	cis	1	rs9869440	chr3:41763155	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9873207	chr3:41884750	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9874513	chr3:41909508	ULK4	chr3:41288091-42003660:-	0.87	5.95	1.35E-7	Diastolic blood pressure	
+MESO	cis	1	rs9874975	chr3:41764300	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9875083	chr3:41775786	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs9875107	chr3:41822313	ULK4	chr3:41288091-42003660:-	0.86	5.53	6.79E-7	Diastolic blood pressure	
+MESO	cis	1	rs9876960	chr3:41985812	ULK4	chr3:41288091-42003660:-	-0.87	-5.65	4.33E-7	Diastolic blood pressure	
+MESO	cis	1	rs9882329	chr3:41767154	ULK4	chr3:41288091-42003660:-	0.78	5.16	2.71E-6	Diastolic blood pressure	
+MESO	cis	1	rs997872	chr22:25878614	CRYBB2	chr22:25615612-25627836:+	1.06	5.69	3.66E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs997873	chr22:25878282	CRYBB2	chr22:25615612-25627836:+	1.06	5.69	3.66E-7	Bipolar disorder with mood-incongruent psychosis	
+MESO	cis	1	rs9985356	chr3:134232920	ANAPC13	chr3:134196547-134204865:-	-0.7	-4.69	1.54E-5	Height	
+MESO	trans	1	rs286499	chr11:85193869	NME2P1	chr12:120719940-120720632:+	-1.31	-7.53	2.6E-10	Chronic obstructive pulmonary disease	

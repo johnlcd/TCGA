@@ -1,0 +1,2 @@
+cancer.type	eQTL.type	tagSNP	LD	SNP.ID	SNP.position.hg19	Gene.symbol	Gene.position.hg19	Beta	t-stat	P-value	GWAS-Traits	
+DLBC	cis	1	rs4869313	chr5:96223880	ERAP2	chr5:96211644-96255398:+	-1.19	-8.8	8.11E-9	Pediatric autoimmune diseases	

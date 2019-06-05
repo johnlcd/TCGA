@@ -1,0 +1,2 @@
+cancer.type	SNP.ID	SNP.position.hg19	Alleles(A/a)	log-rank.pval	sample.size	Median.survival.time.AA	Median.survival.time.Aa	Median.survival.time.aa	
+UCS	rs10509592	chr10:91892863	C/G	1.85E-12	56	18.33	22.97	0.27	

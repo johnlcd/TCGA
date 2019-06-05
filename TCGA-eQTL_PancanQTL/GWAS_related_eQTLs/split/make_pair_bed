@@ -1,0 +1,54 @@
+#!/bin/bash
+#########################################################################
+# File Name: make_pair_bed
+# Author: CJB
+# mail: johnlcd@stu.xjtu.edu.cn
+# Created Time: Fri 18 Jan 2019 05:08:07 PM CST
+#########################################################################
+
+
+if [ $# == "2" ] && [ $1 == "-t" ]; then
+
+
+	tp=${2}
+	echo ">>> Cancer type: "
+	echo "    ${tp}"
+	echo ""
+
+	wdir=~/data/Database/TCGA/TCGA-eQTL_PancanQTL/GWAS_related_eQTLs/split
+	cd ${wdir}
+
+	mkdir -p pair_bed
+	sed '1d' ${tp}.GWAS_related_eQTLs.txt | cut -f2,4-6 | sed 's/:/\t/g' | awk -v OFS='\t' '{if ($1=="cis") print $3,$4-1,$4,$2,$5}' | sort -k4,4 > pair_bed/PancanQTL_${tp}_GWAS_cis_eQTL.pair.bed
+	sed '1d' ${tp}.GWAS_related_eQTLs.txt | cut -f2,4-6 | sed 's/:/\t/g' | awk -v OFS='\t' '{if ($1=="trans") print $3,$4-1,$4,$2,$5}' | sort -k4,4 > pair_bed/PancanQTL_${tp}_GWAS_trans_eQTL.pair.bed
+
+
+else \
+
+	echo ======================================
+	
+	echo " "
+	echo USAGE:
+	echo " "
+	echo " $0 -t <cancer type> "
+	echo " "
+	
+	echo --------------------------------------
+	
+	echo " "
+	echo EXAMPLEs:
+	echo " "
+	echo " $0 -t ACC "
+	echo " "
+	
+	echo ======================================
+	
+	echo " "
+	echo Command is: $0 $*
+	echo " "
+
+fi
+
+
+## END
+

@@ -1,0 +1,805 @@
+cancer.type	eQTL.type	tagSNP	LD	SNP.ID	SNP.position.hg19	Gene.symbol	Gene.position.hg19	Beta	t-stat	P-value	GWAS-Traits	
+SKCM	cis	1	rs1018184	chr6:86648475	SNHG5	chr6:86386726-86388451:-	0.53	4.92	4.79E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1025646	chr3:41754422	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs1042658	chr17:38173902	GSDMA	chr17:38119226-38134019:+	-0.29	-5.02	3.14E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs10455158	chr6:86672825	SNHG5	chr6:86386726-86388451:-	-0.56	-5.34	8.91E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs10455449	chr6:86592226	SNHG5	chr6:86386726-86388451:-	-0.55	-5.16	1.85E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs10455455	chr6:86670214	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs10455456	chr6:86670322	SNHG5	chr6:86386726-86388451:-	-0.56	-5.34	8.91E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs10461617	chr5:56104308	C5orf35	chr5:56205103-56213010:+	0.75	4.84	6.55E-6	Type 2 diabetes	
+SKCM	cis	1	rs10498958	chr6:86649705	SNHG5	chr6:86386726-86388451:-	0.54	5.26	1.25E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs10501335	chr11:55306577	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs10501336	chr11:55315519	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs10843647	chr12:30341934	ERGIC2	chr12:29493580-29534143:-	0.32	4.77	8.32E-6	Glucose homeostasis traits	
+SKCM	cis	1	rs10896043	chr11:65543827	SNX32	chr11:65601410-65621170:+	-0.81	-5.31	1.02E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs10944161	chr6:86630376	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs10944163	chr6:86658693	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs10944169	chr6:86683036	SNHG5	chr6:86386726-86388451:-	-0.56	-5.37	7.86E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs10944170	chr6:86685469	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs10951138	chr7:26481804	HOXA11	chr7:27220777-27224842:-	0.72	4.79	7.91E-6	Visceral adipose tissue/subcutaneous adipose tissue ratio	
+SKCM	cis	1	rs11014976	chr10:26450959	GAD2	chr10:26505236-26593491:+	0.48	4.93	4.54E-6	Obesity-related traits	
+SKCM	cis	1	rs11103631	chr9:137906694	OLFM1	chr9:137967089-138013031:+	-0.66	-4.72	1.02E-5	Trans-epidermal water loss	
+SKCM	cis	1	rs11123170	chr2:113978940	LOC654433	chr2:113993107-114024579:+	-0.79	-6.46	8.2E-9	Renal function-related traits (BUN)	
+SKCM	cis	1	rs11123170	chr2:113978940	PAX8	chr2:113973575-114036498:-	-0.8	-6.03	5.23E-8	Renal function-related traits (BUN)	
+SKCM	cis	1	rs111693873	chr11:55187836	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1119153	chr11:55324134	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11227284	chr11:65503224	SNX32	chr11:65601410-65621170:+	0.83	5.29	1.07E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11227288	chr11:65516588	SNX32	chr11:65601410-65621170:+	0.83	5.29	1.07E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1125203	chr3:41760895	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs113079896	chr11:55196683	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs113732116	chr11:55242946	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs114037190	chr11:55293219	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs115965884	chr22:24594662	SUSD2	chr22:24577444-24585074:+	1.31	6.95	9.77E-10	Amyotrophic lateral sclerosis	
+SKCM	cis	1	rs116849536	chr11:55473875	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs116858638	chr11:55184859	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs116868501	chr11:55353720	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs116966729	chr11:55225831	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs116969778	chr11:55213922	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117067781	chr11:55572932	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117110854	chr11:55325763	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117154767	chr11:55356741	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117189006	chr11:55263160	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117245504	chr11:55175422	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117311484	chr11:55224735	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11739344	chr5:56111087	C5orf35	chr5:56205103-56213010:+	0.79	5.23	1.4E-6	Type 2 diabetes	
+SKCM	cis	1	rs117427130	chr11:55189935	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117533468	chr11:55293193	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11758849	chr6:86708262	SNHG5	chr6:86386726-86388451:-	-0.55	-4.99	3.54E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs11759855	chr6:86610841	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs117619703	chr11:55187799	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117788647	chr11:55187201	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117803056	chr11:55177266	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117904544	chr11:55279095	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs117907570	chr6:86601283	SNHG5	chr6:86386726-86388451:-	-0.56	-5.58	3.42E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs117999297	chr11:55164192	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs118079991	chr11:55347493	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs118121544	chr11:55263793	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11819957	chr11:55304262	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11820245	chr11:55240895	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11820246	chr11:55240901	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11822057	chr11:55242495	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11823346	chr11:55214688	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11823401	chr11:55274744	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11824035	chr11:55180676	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11825313	chr11:55188887	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11826609	chr11:55297635	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11827117	chr11:55315605	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11827405	chr11:55186587	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11828054	chr11:55297562	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs11923562	chr3:41760331	ULK4	chr3:41288091-42003660:-	0.78	4.82	7.02E-6	Diastolic blood pressure	
+SKCM	cis	1	rs11976020	chr7:72247800	TYW1B	chr7:72023729-72298813:-	0.97	9.26	3.34E-14	Educational attainment (years of education)	
+SKCM	cis	1	rs12154056	chr6:86634094	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1216240	chr11:55178067	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs12190598	chr6:86686074	SNHG5	chr6:86386726-86388451:-	-0.56	-4.97	3.84E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12190604	chr6:86716215	SNHG5	chr6:86386726-86388451:-	-0.57	-5.42	6.31E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12192992	chr6:86609915	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12196037	chr6:86694631	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12196411	chr6:86779762	SNHG5	chr6:86386726-86388451:-	-0.55	-5.18	1.71E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12199516	chr6:86726221	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12199784	chr6:86726808	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12200330	chr6:86656653	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12201571	chr6:86609750	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12201735	chr6:86656939	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12201741	chr6:86602619	SNHG5	chr6:86386726-86388451:-	-0.54	-5.04	2.96E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12201880	chr6:86627007	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12203493	chr6:86758642	SNHG5	chr6:86386726-86388451:-	-0.56	-5.3	1.05E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12203924	chr6:86776412	SNHG5	chr6:86386726-86388451:-	-0.55	-5.18	1.71E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12204015	chr6:86598334	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12204365	chr6:86700532	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12205336	chr6:86722367	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12205548	chr6:86759770	SNHG5	chr6:86386726-86388451:-	-0.56	-5.3	1.05E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12207305	chr6:86723502	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12207610	chr6:86688016	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12208493	chr6:86662267	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12209127	chr6:86724427	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12212733	chr6:86726013	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12213149	chr6:86668644	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12213740	chr6:86656733	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12215037	chr6:86727631	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12215903	chr6:86675028	SNHG5	chr6:86386726-86388451:-	-0.56	-5.34	8.91E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12216203	chr6:86675301	SNHG5	chr6:86386726-86388451:-	-0.56	-5.34	8.91E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12216328	chr6:86703418	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12266309	chr10:26461232	GAD2	chr10:26505236-26593491:+	0.47	4.7	1.1E-5	Obesity-related traits	
+SKCM	cis	1	rs12287832	chr11:65553492	SNX32	chr11:65601410-65621170:+	0.82	5.34	8.81E-7	Systemic lupus erythematosus	
+SKCM	cis	1	rs1230338	chr11:55173061	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs12411554	chr10:26456202	GAD2	chr10:26505236-26593491:+	0.48	4.93	4.54E-6	Obesity-related traits	
+SKCM	cis	1	rs12661204	chr6:86678586	SNHG5	chr6:86386726-86388451:-	-0.56	-5.34	8.91E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12663651	chr6:86701655	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs12663690	chr6:86640162	SNHG5	chr6:86386726-86388451:-	0.54	4.99	3.64E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12664335	chr6:86597774	SNHG5	chr6:86386726-86388451:-	0.53	5.03	3.12E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12665321	chr6:86769289	SNHG5	chr6:86386726-86388451:-	-0.55	-5.18	1.71E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs12910992	chr15:90372465	AP3S2	chr15:90373832-90456222:-	-0.64	-4.73	9.92E-6	Type 2 diabetes	
+SKCM	cis	1	rs13194429	chr6:86646705	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs13195401	chr6:26463574	BTN3A2	chr6:26365398-26378546:+	-1.15	-5.93	7.73E-8	Schizophrenia	
+SKCM	cis	1	rs13195402	chr6:26463575	BTN3A2	chr6:26365398-26378546:+	-1.15	-5.93	7.73E-8	Schizophrenia	
+SKCM	cis	1	rs13196930	chr6:86652245	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs13199006	chr6:86608708	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs1320996	chr6:56100431	COL21A1	chr6:55921389-56258892:-	0.6	5.97	6.76E-8	Pulse pressure	
+SKCM	cis	1	rs13217384	chr6:86720000	SNHG5	chr6:86386726-86388451:-	-0.54	-4.78	8.13E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs13220495	chr6:26441640	BTN3A2	chr6:26365398-26378546:+	-1.12	-5.81	1.3E-7	Schizophrenia	
+SKCM	cis	1	rs13252719	chr8:71734569	XKR9	chr8:71581600-71648176:+	0.64	5.71	1.94E-7	Bone mineral density	
+SKCM	cis	1	rs13253842	chr8:71625503	XKR9	chr8:71581600-71648176:+	0.64	5.71	1.94E-7	Bone mineral density	
+SKCM	cis	1	rs1337844	chr6:86677273	SNHG5	chr6:86386726-86388451:-	-0.55	-5.2	1.57E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1337850	chr6:86729103	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs1364759	chr11:55216910	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1415753	chr6:86753074	SNHG5	chr6:86386726-86388451:-	-0.56	-5.3	1.05E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1423621	chr5:56101035	C5orf35	chr5:56205103-56213010:+	0.76	5.06	2.69E-6	Type 2 diabetes	
+SKCM	cis	1	rs1425195	chr11:55195255	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1459105	chr11:55317617	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1459106	chr11:55317814	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1459111	chr11:55256732	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1474698	chr6:56064197	COL21A1	chr6:55921389-56258892:-	-0.6	-5.89	9.36E-8	Pulse pressure	
+SKCM	cis	1	rs1504670	chr11:55321254	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1504671	chr11:55321156	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs151964	chr5:96123666	ERAP1	chr5:96096515-96149837:-	-0.43	-4.95	4.16E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs1577917	chr6:86691940	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs1577919	chr6:86757296	SNHG5	chr6:86386726-86388451:-	-0.56	-5.3	1.05E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1580922	chr11:55324138	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1604902	chr11:55391174	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs163818	chr5:14072057	FAM105B	chr5:14664783-14699841:+	0.56	4.72	1.03E-5	Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	
+SKCM	cis	1	rs16876529	chr6:86591202	SNHG5	chr6:86386726-86388451:-	-0.58	-5.8	1.33E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs16929097	chr9:12521826	MPDZ	chr9:13105709-13279563:-	0.77	5.05	2.82E-6	Asthma (childhood onset)	
+SKCM	cis	1	rs17061431	chr3:41792655	ULK4	chr3:41288091-42003660:-	0.79	5.16	1.8E-6	Diastolic blood pressure	
+SKCM	cis	1	rs17062109	chr3:41810364	ULK4	chr3:41288091-42003660:-	0.77	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs17433780	chr1:89474818	GBP3	chr1:89472367-89488549:-	0.55	7.17	3.72E-10	Carotid intima media thickness	
+SKCM	cis	1	rs17493401	chr11:55171930	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17493596	chr11:55200610	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17494102	chr11:55258196	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17494249	chr11:55258881	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17494990	chr11:55277761	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17495071	chr11:55278447	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17495142	chr11:55282594	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17495303	chr11:55290011	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17496054	chr11:55310280	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17496160	chr11:55314073	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17496444	chr11:55319012	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17496724	chr11:55322099	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17499703	chr11:55492391	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17501535	chr11:55561893	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17578388	chr11:55200433	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17578479	chr11:55203672	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17578535	chr11:55204022	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17579348	chr11:55261238	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17579755	chr11:55273190	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17580294	chr11:55296106	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17580581	chr11:55303299	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17580623	chr11:55303486	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17580938	chr11:55311980	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17580966	chr11:55312550	OR4A16	chr11:55110677-55111661:+	-0.78	-4.65	1.35E-5	Systemic lupus erythematosus	
+SKCM	cis	1	rs17580994	chr11:55312897	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581051	chr11:55314303	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581191	chr11:55316023	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581261	chr11:55318210	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581303	chr11:55318698	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581337	chr11:55319882	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581532	chr11:55321823	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581700	chr11:55322606	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17581742	chr11:55326524	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17592197	chr11:55531324	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17592698	chr11:55558804	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17593355	chr11:55592874	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs17818399	chr2:46826026	PIGF	chr2:46808414-46844251:-	0.5	4.92	4.78E-6	Height	
+SKCM	cis	1	rs1841165	chr11:55256084	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs1857964	chr6:86635994	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1857965	chr6:86630776	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs190414	chr5:56116772	C5orf35	chr5:56205103-56213010:+	0.74	4.82	6.85E-6	Type 2 diabetes	
+SKCM	cis	1	rs1911552	chr6:86638024	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs1911553	chr6:86630892	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1925148	chr6:56095672	COL21A1	chr6:55921389-56258892:-	0.6	5.97	6.76E-8	Pulse pressure	
+SKCM	cis	1	rs1925152	chr6:56102709	COL21A1	chr6:55921389-56258892:-	0.52	4.88	5.55E-6	Pulse pressure	
+SKCM	cis	1	rs1930961	chr22:25875265	CRYBB2	chr22:25615612-25627836:+	1.24	7.14	4.19E-10	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs1935484	chr10:26454490	GAD2	chr10:26505236-26593491:+	0.48	4.93	4.54E-6	Obesity-related traits	
+SKCM	cis	1	rs1962716	chr6:86648436	SNHG5	chr6:86386726-86388451:-	-0.55	-5.4	6.86E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs1979	chr6:26377591	BTN3A2	chr6:26365398-26378546:+	-1.03	-7.58	6.08E-11	Schizophrenia	
+SKCM	cis	1	rs1995688	chr6:86632319	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs1999852	chr6:86705738	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs2028299	chr15:90374257	AP3S2	chr15:90373832-90456222:-	-0.63	-4.71	1.05E-5	Type 2 diabetes	
+SKCM	cis	1	rs2042591	chr11:55222990	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs2096176	chr10:26433366	GAD2	chr10:26505236-26593491:+	-0.45	-4.91	4.95E-6	Obesity-related traits	
+SKCM	cis	1	rs2113078	chr5:56087190	C5orf35	chr5:56205103-56213010:+	0.75	4.88	5.43E-6	Type 2 diabetes	
+SKCM	cis	1	rs2113916	chr11:55197672	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs2125587	chr11:55253578	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs2155029	chr11:55211811	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs2166663	chr6:86593896	SNHG5	chr6:86386726-86388451:-	-0.58	-5.8	1.33E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs2186595	chr11:55212033	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs2194835	chr11:55237265	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs2216993	chr11:55236954	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs2226129	chr10:26435330	GAD2	chr10:26505236-26593491:+	0.45	4.68	1.17E-5	Obesity-related traits	
+SKCM	cis	1	rs2227336	chr17:38174855	GSDMA	chr17:38119226-38134019:+	-0.29	-5.03	3.05E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs2292239	chr12:56482180	RPS26	chr12:56435686-56438005:+	0.65	5.12	2.12E-6	Cognitive function	
+SKCM	cis	1	rs2324843	chr6:86617501	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs2351706	chr15:90384115	AP3S2	chr15:90373832-90456222:-	-0.64	-4.78	8.07E-6	Type 2 diabetes	
+SKCM	cis	1	rs2351707	chr15:90384045	AP3S2	chr15:90373832-90456222:-	-0.64	-4.78	8.07E-6	Type 2 diabetes	
+SKCM	cis	1	rs2368158	chr10:26436287	GAD2	chr10:26505236-26593491:+	0.45	4.68	1.17E-5	Obesity-related traits	
+SKCM	cis	1	rs2371623	chr3:41761083	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs2432195	chr5:56120413	C5orf35	chr5:56205103-56213010:+	0.74	4.82	6.85E-6	Type 2 diabetes	
+SKCM	cis	1	rs246454	chr5:96123264	ERAP1	chr5:96096515-96149837:-	-0.43	-4.95	4.16E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs252902	chr5:56116085	C5orf35	chr5:56205103-56213010:+	0.82	5.74	1.72E-7	Type 2 diabetes	
+SKCM	cis	1	rs252904	chr5:56118733	C5orf35	chr5:56205103-56213010:+	0.76	5.13	2.03E-6	Type 2 diabetes	
+SKCM	cis	1	rs252909	chr5:56121131	C5orf35	chr5:56205103-56213010:+	0.74	4.82	6.85E-6	Type 2 diabetes	
+SKCM	cis	1	rs252915	chr5:56121754	C5orf35	chr5:56205103-56213010:+	-0.81	-5.67	2.27E-7	Type 2 diabetes	
+SKCM	cis	1	rs252916	chr5:56121788	C5orf35	chr5:56205103-56213010:+	0.82	5.74	1.72E-7	Type 2 diabetes	
+SKCM	cis	1	rs252919	chr5:56124111	C5orf35	chr5:56205103-56213010:+	0.82	5.74	1.72E-7	Type 2 diabetes	
+SKCM	cis	1	rs26510	chr5:96125910	ERAP1	chr5:96096515-96149837:-	-0.43	-4.98	3.77E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs27529	chr5:96126308	ERAP1	chr5:96096515-96149837:-	-0.43	-5.01	3.26E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs2764422	chr1:43648780	CCDC30	chr1:42929025-43120335:+	-0.71	-4.75	9.26E-6	Telomere length	
+SKCM	cis	1	rs2764423	chr1:43648398	CCDC30	chr1:42929025-43120335:+	-0.71	-4.75	9.26E-6	Telomere length	
+SKCM	cis	1	rs27710	chr5:96126197	ERAP1	chr5:96096515-96149837:-	0.46	5.39	7.23E-7	Ankylosing spondylitis	
+SKCM	cis	1	rs2812972	chr6:86669880	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs2816815	chr6:86691656	SNHG5	chr6:86386726-86388451:-	-0.55	-5.67	2.32E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs2816821	chr6:86657084	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs28755797	chr3:41774446	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs30187	chr5:96124330	ERAP1	chr5:96096515-96149837:-	-0.43	-4.95	4.16E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs30378	chr5:96121994	ERAP1	chr5:96096515-96149837:-	-0.44	-4.98	3.69E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs30379	chr5:96122260	ERAP1	chr5:96096515-96149837:-	-0.44	-4.98	3.69E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs30380	chr5:96122281	ERAP1	chr5:96096515-96149837:-	-0.44	-4.98	3.69E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs3091242	chr1:25674785	RHD	chr1:25598981-25656935:+	-0.65	-5.42	6.34E-7	Erythrocyte sedimentation rate	
+SKCM	cis	1	rs311729	chr5:109771127	TMEM232	chr5:109624934-110062381:-	0.83	4.72	1.01E-5	Cardiac structure and function	
+SKCM	cis	1	rs3204270	chr17:79682051	ARL16	chr17:79648234-79650954:-	-0.98	-4.74	9.4E-6	Dental caries	
+SKCM	cis	1	rs3213762	chr17:38178627	GSDMA	chr17:38119226-38134019:+	-0.29	-4.95	4.25E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs34099327	chr11:55305250	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs34106666	chr6:86676258	SNHG5	chr6:86386726-86388451:-	-0.56	-5.34	8.91E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs34281561	chr6:86701872	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs34581302	chr6:86705948	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs34622557	chr6:86630852	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs34852683	chr6:86702330	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs35385043	chr6:86648546	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs35419329	chr6:86702291	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs35608327	chr15:90369204	AP3S2	chr15:90373832-90456222:-	-0.64	-4.76	8.8E-6	Type 2 diabetes	
+SKCM	cis	1	rs35760725	chr6:86648985	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs35761942	chr6:86629504	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs35797755	chr6:86706554	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs35968796	chr11:55305322	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs36096931	chr6:86693134	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs3740231	chr10:26463043	GAD2	chr10:26505236-26593491:+	0.47	4.7	1.1E-5	Obesity-related traits	
+SKCM	cis	1	rs3825932	chr15:79235446	CTSH	chr15:79214092-79237420:-	0.62	5.65	2.52E-7	Type 1 diabetes	
+SKCM	cis	1	rs3826331	chr17:38150492	GSDMA	chr17:38119226-38134019:+	0.28	4.72	1.03E-5	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs3846926	chr6:56092186	COL21A1	chr6:55921389-56258892:-	0.6	5.97	6.76E-8	Pulse pressure	
+SKCM	cis	1	rs3890604	chr3:41760625	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs3949112	chr11:55212093	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs3960018	chr15:90383307	AP3S2	chr15:90373832-90456222:-	-0.64	-4.78	8.07E-6	Type 2 diabetes	
+SKCM	cis	1	rs41266839	chr6:26409890	BTN3A2	chr6:26365398-26378546:+	-1.12	-5.81	1.3E-7	Schizophrenia	
+SKCM	cis	1	rs4140574	chr6:56099424	COL21A1	chr6:55921389-56258892:-	0.6	5.97	6.76E-8	Pulse pressure	
+SKCM	cis	1	rs4140575	chr6:56099222	COL21A1	chr6:55921389-56258892:-	0.59	5.86	1.04E-7	Pulse pressure	
+SKCM	cis	1	rs4294134	chr7:135293128	PL-5283	chr7:135347221-135378160:+	0.62	4.65	1.31E-5	Paget's disease	
+SKCM	cis	1	rs4316524	chr11:55159965	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs4356975	chr4:69972463	UGT2B7	chr4:69962193-69978704:+	-0.53	-4.75	9.19E-6	Obesity-related traits	
+SKCM	cis	1	rs4408846	chr3:41753679	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs4488212	chr11:55212096	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs4537777	chr11:55241556	OR4A16	chr11:55110677-55111661:+	0.91	5.06	2.74E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs469758	chr5:96121715	ERAP1	chr5:96096515-96149837:-	-0.44	-4.98	3.69E-6	Ankylosing spondylitis	
+SKCM	cis	1	rs4706254	chr6:86602813	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs4707239	chr6:86610717	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs4712120	chr6:56092916	COL21A1	chr6:55921389-56258892:-	0.52	4.88	5.55E-6	Pulse pressure	
+SKCM	cis	1	rs4715590	chr6:56060017	COL21A1	chr6:55921389-56258892:-	0.57	5.48	5.02E-7	Pulse pressure	
+SKCM	cis	1	rs4759229	chr12:56474480	RPS26	chr12:56435686-56438005:+	-0.65	-4.68	1.21E-5	Cognitive function	
+SKCM	cis	1	rs4794823	chr17:38166265	GSDMA	chr17:38119226-38134019:+	-0.28	-4.77	8.34E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs4794824	chr17:38179290	GSDMA	chr17:38119226-38134019:+	-0.29	-5.01	3.27E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs4795415	chr17:38157995	GSDMA	chr17:38119226-38134019:+	-0.27	-4.69	1.16E-5	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs4795416	chr17:38158133	GSDMA	chr17:38119226-38134019:+	-0.27	-4.69	1.16E-5	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs4795418	chr17:38164851	GSDMA	chr17:38119226-38134019:+	-0.28	-4.77	8.34E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs4869313	chr5:96223880	ERAP2	chr5:96211644-96255398:+	-0.67	-7.75	2.84E-11	Pediatric autoimmune diseases	
+SKCM	cis	1	rs488213	chr11:55271407	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs492647	chr11:55253629	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs4932143	chr15:90372067	AP3S2	chr15:90373832-90456222:-	-0.64	-4.73	9.92E-6	Type 2 diabetes	
+SKCM	cis	1	rs4932148	chr15:90394356	AP3S2	chr15:90373832-90456222:-	-0.64	-4.82	7.05E-6	Type 2 diabetes	
+SKCM	cis	1	rs494003	chr11:65542298	SNX32	chr11:65601410-65621170:+	0.83	5.29	1.07E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs5025344	chr11:55225024	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs505338	chr11:55320583	OR4A16	chr11:55110677-55111661:+	-0.85	-5.34	9.01E-7	Systemic lupus erythematosus	
+SKCM	cis	1	rs530679	chr11:55271372	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs531971	chr11:55259583	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs548768	chr11:55269362	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55636526	chr11:55341726	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55647117	chr11:55340896	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55648313	chr11:55196151	OR4A16	chr11:55110677-55111661:+	1.22	4.64	1.38E-5	Systemic lupus erythematosus	
+SKCM	cis	1	rs55654725	chr11:55331229	OR4A16	chr11:55110677-55111661:+	0.89	4.96	4.02E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55657388	chr11:55203117	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55657490	chr11:55195818	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55667318	chr11:55210291	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55669714	chr11:55362393	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55675343	chr11:55302662	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55686425	chr11:55297270	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55696537	chr11:55264605	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55705038	chr11:55302497	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55708507	chr11:55341154	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55720733	chr11:55352466	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55736192	chr11:55241123	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55770365	chr11:55276880	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55775069	chr11:55197656	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55828496	chr11:55321661	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55833102	chr11:55512176	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55853559	chr11:55289338	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55854157	chr11:55192464	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55869276	chr11:55316412	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55879323	chr1:152168740	FLG	chr1:152274651-152297679:-	-0.34	-4.75	9.08E-6	Inflammatory skin disease	
+SKCM	cis	1	rs55881253	chr11:55310743	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55889092	chr11:55192872	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55895944	chr11:55241716	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55902215	chr11:55352483	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55912300	chr11:55297127	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55917312	chr11:55180056	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55959477	chr11:55352289	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55972122	chr11:55320834	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs55993784	chr11:55195873	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs559972	chr17:27814496	RPL23A	chr17:27047000-27051373:+	0.48	4.71	1.05E-5	Mean platelet volume	
+SKCM	cis	1	rs55999106	chr11:55257965	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56037431	chr11:55296074	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56045005	chr11:55257798	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56055236	chr11:55192754	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56056425	chr11:55352227	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56058343	chr11:55362428	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56063920	chr11:55326249	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56063922	chr11:55272853	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56073785	chr11:55302673	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56078420	chr11:55189969	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56082718	chr11:55296318	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56098095	chr11:55289413	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56118676	chr11:55341735	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56127747	chr11:55337259	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56147666	chr11:55210551	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56148636	chr11:55195800	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56152577	chr11:55307780	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56184662	chr11:55180816	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56190422	chr11:55202643	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56266612	chr11:55304962	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56291726	chr11:55210585	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56299119	chr11:55328348	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56333107	chr11:55314754	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56381852	chr11:55264455	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56400349	chr11:55435962	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56410859	chr11:55193186	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs56922390	chr17:38157021	GSDMA	chr17:38119226-38134019:+	-0.27	-4.69	1.16E-5	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs5760216	chr22:24539734	SUSD2	chr22:24577444-24585074:+	1.27	6.48	7.55E-9	Amyotrophic lateral sclerosis	
+SKCM	cis	1	rs5760220	chr22:24542480	SUSD2	chr22:24577444-24585074:+	1.24	5.1	2.29E-6	Amyotrophic lateral sclerosis	
+SKCM	cis	1	rs5760229	chr22:24560254	SUSD2	chr22:24577444-24585074:+	1.31	6.95	9.77E-10	Amyotrophic lateral sclerosis	
+SKCM	cis	1	rs578056	chr11:65514874	SNX32	chr11:65601410-65621170:+	0.83	5.29	1.07E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs58893672	chr11:55308305	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs59226697	chr22:25870037	CRYBB2	chr22:25615612-25627836:+	1.34	5.87	1.01E-7	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs59925331	chr17:38169273	GSDMA	chr17:38119226-38134019:+	-0.28	-4.77	8.34E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs5996946	chr22:25875988	CRYBB2	chr22:25615612-25627836:+	1.2	6.47	7.72E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6003958	chr22:24264089	GSTT2	chr22:24322314-24326104:+;chr22	0.63	4.82	6.98E-6	S-phenylmercapturic acid levels in smokers	
+SKCM	cis	1	rs6004654	chr22:25855204	CRYBB2	chr22:25615612-25627836:+	1.39	6.94	1.01E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004655	chr22:25855629	CRYBB2	chr22:25615612-25627836:+	1.39	6.7	2.92E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004657	chr22:25855714	CRYBB2	chr22:25615612-25627836:+	1.39	6.94	1.01E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004658	chr22:25856231	CRYBB2	chr22:25615612-25627836:+	1.39	6.94	1.01E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004659	chr22:25856411	CRYBB2	chr22:25615612-25627836:+	1.38	6.82	1.7E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004662	chr22:25862124	CRYBB2	chr22:25615612-25627836:+	1.38	6.85	1.5E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004667	chr22:25874464	CRYBB2	chr22:25615612-25627836:+	-1.37	-7.22	3.01E-10	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004668	chr22:25874502	CRYBB2	chr22:25615612-25627836:+	-1.24	-7.14	4.19E-10	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004669	chr22:25875803	CRYBB2	chr22:25615612-25627836:+	1.2	6.47	7.72E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004671	chr22:25879474	CRYBB2	chr22:25615612-25627836:+	1.2	6.47	7.72E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004672	chr22:25881013	CRYBB2	chr22:25615612-25627836:+	1.2	6.47	7.72E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004673	chr22:25885353	CRYBB2	chr22:25615612-25627836:+	1.2	6.47	7.72E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6004675	chr22:25889385	CRYBB2	chr22:25615612-25627836:+	1.31	6.05	4.67E-8	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs601338	chr19:49206674	FUT2	chr19:49199228-49209190:+	-0.34	-4.98	3.76E-6	Blood metabolite levels;Blood metabolite ratios	
+SKCM	cis	1	rs6051080	chr20:25975674	FAM182B	chr20:25744102-25848786:-	0.49	4.73	9.96E-6	Colorectal or endometrial cancer	
+SKCM	cis	1	rs6051080	chr20:25975674	LOC100134868	chr20:25990435-26002424:+	-0.52	-4.74	9.5E-6	Colorectal or endometrial cancer	
+SKCM	cis	1	rs616045	chr1:43647035	CCDC30	chr1:42929025-43120335:+	-0.71	-4.75	9.26E-6	Telomere length	
+SKCM	cis	1	rs61744385	chr3:41756986	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs61744388	chr3:41756965	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs61894220	chr11:55343454	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894221	chr11:55343809	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894222	chr11:55344293	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894224	chr11:55344825	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894225	chr11:55344928	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894241	chr11:55351097	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894242	chr11:55351153	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894243	chr11:55351244	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894244	chr11:55351528	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894245	chr11:55351631	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894765	chr11:55460012	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894766	chr11:55462473	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894769	chr11:55465984	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894770	chr11:55469059	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894771	chr11:55469143	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894774	chr11:55478092	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894789	chr11:55486919	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894790	chr11:55488052	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894792	chr11:55498659	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894793	chr11:55500102	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894794	chr11:55502938	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894797	chr11:55514318	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894847	chr11:55530776	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894851	chr11:55537356	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894852	chr11:55537513	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894853	chr11:55538625	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894854	chr11:55548453	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61894856	chr11:55550232	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895191	chr11:55352786	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895192	chr11:55354108	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895193	chr11:55354239	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895194	chr11:55354435	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895195	chr11:55354636	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895196	chr11:55355308	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895197	chr11:55355735	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895199	chr11:55356496	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895200	chr11:55357348	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895201	chr11:55358164	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895202	chr11:55358456	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895203	chr11:55359728	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895204	chr11:55359925	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895206	chr11:55362587	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895207	chr11:55362826	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61895227	chr11:55367715	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896186	chr11:55369401	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896187	chr11:55370697	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896194	chr11:55372621	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896197	chr11:55373812	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896208	chr11:55378208	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896209	chr11:55378344	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896215	chr11:55382359	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896307	chr11:55560426	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896308	chr11:55560483	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896309	chr11:55563761	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896310	chr11:55563846	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896311	chr11:55567208	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896312	chr11:55572698	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896314	chr11:55573704	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896315	chr11:55575952	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896316	chr11:55576553	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896320	chr11:55580588	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896971	chr11:55395396	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61896975	chr11:55406524	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916282	chr11:55268646	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916283	chr11:55271200	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916284	chr11:55271500	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916285	chr11:55271681	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916286	chr11:55271699	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916289	chr11:55274279	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916290	chr11:55274688	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916297	chr11:55279382	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916299	chr11:55281175	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916300	chr11:55281198	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916301	chr11:55281391	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916302	chr11:55281667	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916319	chr11:55282118	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916320	chr11:55282293	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916321	chr11:55282371	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916322	chr11:55282687	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916349	chr11:55290219	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916351	chr11:55290727	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916362	chr11:55207383	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916374	chr11:55210942	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916375	chr11:55211015	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916376	chr11:55211925	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916395	chr11:55212505	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916396	chr11:55212611	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916398	chr11:55216248	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916400	chr11:55218146	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916402	chr11:55219714	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916403	chr11:55221229	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916404	chr11:55221576	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916405	chr11:55221776	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916407	chr11:55222470	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916408	chr11:55222572	OR4A16	chr11:55110677-55111661:+	0.89	4.92	4.7E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916410	chr11:55224869	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916411	chr11:55224905	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916453	chr11:55233726	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916457	chr11:55234186	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916458	chr11:55234406	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916561	chr11:55336203	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916562	chr11:55336207	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916563	chr11:55337027	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916564	chr11:55337782	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916565	chr11:55338095	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916566	chr11:55338435	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916567	chr11:55339242	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61916568	chr11:55340170	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917395	chr11:55167773	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917397	chr11:55168405	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917398	chr11:55170016	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917404	chr11:55172653	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917431	chr11:55172955	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917432	chr11:55173049	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917433	chr11:55173059	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917438	chr11:55174980	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917439	chr11:55175027	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917451	chr11:55182769	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917452	chr11:55183007	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917453	chr11:55183429	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917454	chr11:55183543	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917455	chr11:55183705	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917456	chr11:55183753	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917457	chr11:55183759	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917458	chr11:55184196	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917459	chr11:55184664	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917884	chr11:55294244	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917891	chr11:55295283	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917892	chr11:55295969	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917897	chr11:55298533	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917926	chr11:55305160	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917927	chr11:55305170	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917936	chr11:55311417	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917939	chr11:55312619	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917940	chr11:55313406	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917941	chr11:55314405	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917942	chr11:55315533	OR4A16	chr11:55110677-55111661:+	1.22	4.64	1.38E-5	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917958	chr11:55318492	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917959	chr11:55318782	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917963	chr11:55235759	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917983	chr11:55235812	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917984	chr11:55237729	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917991	chr11:55240980	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917993	chr11:55242015	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917994	chr11:55242085	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917995	chr11:55242459	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917996	chr11:55242556	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917997	chr11:55242726	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917998	chr11:55243250	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61917999	chr11:55243696	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918001	chr11:55246041	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918002	chr11:55246517	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918003	chr11:55247690	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918004	chr11:55248982	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918005	chr11:55249242	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918007	chr11:55249435	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918008	chr11:55249484	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918160	chr11:55184667	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918207	chr11:55185232	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918208	chr11:55185449	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918210	chr11:55187431	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918212	chr11:55187947	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918213	chr11:55187973	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918214	chr11:55188031	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918217	chr11:55188818	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918218	chr11:55189675	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918219	chr11:55189833	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918221	chr11:55190708	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918222	chr11:55191116	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918227	chr11:55193679	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918228	chr11:55194403	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918233	chr11:55196983	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918236	chr11:55198427	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918251	chr11:55199875	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918253	chr11:55201447	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918254	chr11:55202417	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918258	chr11:55205398	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61918259	chr11:55205578	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919260	chr11:55205628	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919565	chr11:55319985	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919569	chr11:55322464	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919570	chr11:55322490	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919571	chr11:55322902	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919573	chr11:55323347	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919574	chr11:55324704	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919575	chr11:55324862	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919576	chr11:55324892	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919578	chr11:55326379	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919579	chr11:55326454	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919580	chr11:55326458	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919581	chr11:55327662	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919583	chr11:55328053	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919585	chr11:55328400	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919586	chr11:55328550	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919587	chr11:55328906	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919613	chr11:55329105	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919614	chr11:55329211	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919616	chr11:55330088	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919618	chr11:55332687	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919619	chr11:55333285	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919620	chr11:55333439	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919621	chr11:55333613	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919622	chr11:55333895	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919623	chr11:55334105	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919624	chr11:55334179	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919672	chr11:55249834	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919673	chr11:55250375	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919674	chr11:55250427	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919675	chr11:55250549	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919676	chr11:55254115	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919677	chr11:55254510	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919678	chr11:55255320	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919681	chr11:55258063	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919682	chr11:55258253	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919683	chr11:55258709	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919684	chr11:55259945	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919686	chr11:55262910	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919688	chr11:55263224	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919689	chr11:55263948	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919690	chr11:55264851	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs61919691	chr11:55265214	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs62136864	chr2:46829124	PIGF	chr2:46808414-46844251:-	0.5	4.92	4.78E-6	Height	
+SKCM	cis	1	rs627372	chr1:43648857	CCDC30	chr1:42929025-43120335:+	-0.71	-4.75	9.26E-6	Telomere length	
+SKCM	cis	1	rs639903	chr11:55252425	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs641862	chr13:110790232	ARHGEF7	chr13:111767624-111958080:+	1.25	5.2	1.54E-6	Obesity-related traits	
+SKCM	cis	1	rs6454513	chr6:86720049	SNHG5	chr6:86386726-86388451:-	0.57	5.55	3.75E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs646867	chr1:25709258	RHD	chr1:25598981-25656935:+	-0.63	-5.16	1.84E-6	Erythrocyte sedimentation rate	
+SKCM	cis	1	rs6482532	chr10:26455865	GAD2	chr10:26505236-26593491:+	0.48	4.93	4.54E-6	Obesity-related traits	
+SKCM	cis	1	rs6496609	chr15:90379632	AP3S2	chr15:90373832-90456222:-	-0.64	-4.78	8.07E-6	Type 2 diabetes	
+SKCM	cis	1	rs6503530	chr17:38161823	GSDMA	chr17:38119226-38134019:+	-0.28	-4.77	8.34E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs6519611	chr22:25845855	CRYBB2	chr22:25615612-25627836:+	1.41	6.98	8.43E-10	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs6545883	chr2:61772257	C2orf74	chr2:61372243-61391964:+	0.59	5.26	1.24E-6	Tuberculosis	
+SKCM	cis	1	rs6591439	chr11:55179208	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs6591466	chr11:55213206	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs6599170	chr3:41772718	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs6599175	chr3:41786009	ULK4	chr3:41288091-42003660:-	-0.82	-5.4	7.02E-7	Diastolic blood pressure	
+SKCM	cis	1	rs6599176	chr3:41788492	ULK4	chr3:41288091-42003660:-	-0.79	-5.38	7.51E-7	Diastolic blood pressure	
+SKCM	cis	1	rs663336	chr1:43649393	CCDC30	chr1:42929025-43120335:+	-0.71	-4.75	9.26E-6	Telomere length	
+SKCM	cis	1	rs6742276	chr2:61768745	C2orf74	chr2:61372243-61391964:+	0.59	5.44	5.83E-7	Tuberculosis	
+SKCM	cis	1	rs6781326	chr3:41777028	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs6789260	chr3:41776350	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs6801343	chr3:41767234	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs6803560	chr3:41824480	ULK4	chr3:41288091-42003660:-	0.73	4.74	9.49E-6	Diastolic blood pressure	
+SKCM	cis	1	rs6803652	chr3:41824556	ULK4	chr3:41288091-42003660:-	0.73	4.74	9.49E-6	Diastolic blood pressure	
+SKCM	cis	1	rs6807015	chr3:41754514	ULK4	chr3:41288091-42003660:-	0.8	5.06	2.72E-6	Diastolic blood pressure	
+SKCM	cis	1	rs68171315	chr6:86707400	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs6885541	chr5:56110857	C5orf35	chr5:56205103-56213010:+	0.79	5.23	1.4E-6	Type 2 diabetes	
+SKCM	cis	1	rs6914463	chr6:86653415	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs6923148	chr6:86767786	SNHG5	chr6:86386726-86388451:-	0.54	5.36	8.24E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs6933377	chr6:86705255	SNHG5	chr6:86386726-86388451:-	0.52	5.14	1.95E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs6936048	chr6:86702608	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.72E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs6940458	chr6:86644992	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs7007450	chr8:71640269	XKR9	chr8:71581600-71648176:+	0.64	5.71	1.94E-7	Bone mineral density	
+SKCM	cis	1	rs7017914	chr8:71591203	XKR9	chr8:71581600-71648176:+	0.64	5.71	1.94E-7	Bone mineral density	
+SKCM	cis	1	rs7084000	chr10:26446034	GAD2	chr10:26505236-26593491:+	0.48	5.01	3.26E-6	Obesity-related traits	
+SKCM	cis	1	rs7085103	chr10:26433673	GAD2	chr10:26505236-26593491:+	0.45	4.7	1.11E-5	Obesity-related traits	
+SKCM	cis	1	rs7093989	chr10:26440412	GAD2	chr10:26505236-26593491:+	0.46	4.71	1.06E-5	Obesity-related traits	
+SKCM	cis	1	rs709592	chr17:38175553	GSDMA	chr17:38119226-38134019:+	-0.29	-5.03	3.05E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs7102958	chr11:55298631	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7103342	chr11:55268805	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7106100	chr11:55219382	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7109287	chr11:55219432	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7111663	chr11:55218922	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7111681	chr11:55218978	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7111	chr15:90373873	AP3S2	chr15:90373832-90456222:-	-0.63	-4.71	1.05E-5	Type 2 diabetes	
+SKCM	cis	1	rs7112469	chr11:55266600	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7112674	chr11:55342067	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7112787	chr11:55342155	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7115527	chr11:55268855	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7116208	chr11:55212816	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7117005	chr11:55169003	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7119347	chr11:55270585	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7121555	chr11:55268934	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7124611	chr11:55361189	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7124739	chr11:55361272	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7124871	chr11:55541620	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7125205	chr11:55178992	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7127570	chr11:55247176	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7128329	chr11:55039027	OR4A16	chr11:55110677-55111661:+	0.97	4.86	5.86E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7128331	chr11:55361156	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7128574	chr11:55176997	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7128605	chr11:55245605	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7128617	chr11:55245650	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7214085	chr17:38169095	GSDMA	chr17:38119226-38134019:+	-0.28	-4.77	8.34E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs72843784	chr6:26498758	BTN3A2	chr6:26365398-26378546:+	-1.15	-5.93	7.73E-8	Schizophrenia	
+SKCM	cis	1	rs7285549	chr22:25874580	CRYBB2	chr22:25615612-25627836:+	1.24	7.14	4.19E-10	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs72922733	chr11:65520746	SNX32	chr11:65601410-65621170:+	0.83	5.29	1.07E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs73069392	chr3:41787009	ULK4	chr3:41288091-42003660:-	0.79	5.16	1.8E-6	Diastolic blood pressure	
+SKCM	cis	1	rs73069394	chr3:41787233	ULK4	chr3:41288091-42003660:-	0.79	5.16	1.8E-6	Diastolic blood pressure	
+SKCM	cis	1	rs73069396	chr3:41787236	ULK4	chr3:41288091-42003660:-	0.79	5.16	1.8E-6	Diastolic blood pressure	
+SKCM	cis	1	rs73071329	chr3:41810539	ULK4	chr3:41288091-42003660:-	0.77	5.1	2.37E-6	Diastolic blood pressure	
+SKCM	cis	1	rs74331841	chr11:55322422	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs74625780	chr11:55225873	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs75768461	chr11:55292919	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs75881957	chr11:55339712	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs76046642	chr11:55225417	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs760554	chr22:25872592	CRYBB2	chr22:25615612-25627836:+	1.38	6.85	1.5E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs760555	chr22:25872837	CRYBB2	chr22:25615612-25627836:+	1.38	6.85	1.5E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs76097560	chr11:55329853	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7631057	chr3:41817951	ULK4	chr3:41288091-42003660:-	0.73	4.74	9.49E-6	Diastolic blood pressure	
+SKCM	cis	1	rs76388671	chr11:55329854	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs76426677	chr11:55225921	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs76463468	chr11:55327996	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7650227	chr3:41794937	ULK4	chr3:41288091-42003660:-	0.78	5.12	2.18E-6	Diastolic blood pressure	
+SKCM	cis	1	rs76670300	chr11:55344192	OR4A16	chr11:55110677-55111661:+	0.9	4.94	4.28E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs76906133	chr11:55224695	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs76914796	chr11:55521982	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7705093	chr5:96290647	ERAP2	chr5:96211644-96255398:+	0.9	11.04	1.29E-17	Birdshot chorioretinopathy	
+SKCM	cis	1	rs7720298	chr5:13858328	TRIO	chr5:14143829-14509450:+	0.51	4.7	1.12E-5	Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)	
+SKCM	cis	1	rs77219956	chr11:55183893	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs77248666	chr11:55294317	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs77352583	chr11:55187803	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7747824	chr6:86647106	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs7756203	chr6:86627707	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs7760207	chr6:86721700	SNHG5	chr6:86386726-86388451:-	-0.56	-5.41	6.63E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs77611127	chr11:55314571	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs77650525	chr11:55322921	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7766645	chr6:86622238	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs7771342	chr6:86631936	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs77718339	chr11:55252306	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs77792938	chr11:55312829	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs778758	chr2:61782161	C2orf74	chr2:61372243-61391964:+	0.59	5.44	5.83E-7	Tuberculosis	
+SKCM	cis	1	rs778762	chr2:61782921	C2orf74	chr2:61372243-61391964:+	0.58	5.42	6.33E-7	Tuberculosis	
+SKCM	cis	1	rs778763	chr2:61785639	C2orf74	chr2:61372243-61391964:+	0.59	5.4	6.94E-7	Tuberculosis	
+SKCM	cis	1	rs78253765	chr11:55343347	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs78301054	chr11:55312925	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs78414330	chr11:55252243	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs78502527	chr11:55187580	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs78612916	chr11:55339704	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs78785256	chr11:55282643	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs78875307	chr11:55173669	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs791856	chr6:86681841	SNHG5	chr6:86386726-86388451:-	0.54	5.27	1.17E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs7924882	chr11:55222061	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7925927	chr11:55171160	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7927738	chr11:55251545	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs79277988	chr11:55224325	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7929411	chr11:55449139	OR4A16	chr11:55110677-55111661:+	0.91	5.05	2.84E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7929606	chr11:55275236	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7930341	chr11:55269816	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7931450	chr11:55565359	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7933811	chr11:55298265	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7935445	chr11:55288780	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7935599	chr11:55251546	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7938739	chr11:55206830	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7940290	chr11:55274849	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7940435	chr11:55274969	OR4A16	chr11:55110677-55111661:+	0.89	4.94	4.33E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7940928	chr11:55217478	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7941275	chr11:55269686	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7941839	chr11:55270154	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7941860	chr11:55270188	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7942480	chr11:55257480	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7943036	chr11:55171193	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7943092	chr11:55261104	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7943676	chr11:55251205	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7944383	chr11:55487252	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7944525	chr11:55487391	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7945896	chr11:55445243	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7946976	chr11:55206920	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7947870	chr11:55444514	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7948802	chr11:55217012	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7950542	chr11:55292605	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7950685	chr11:55260691	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7950755	chr11:55269990	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7950848	chr11:55175602	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7951100	chr11:55590296	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs7952701	chr11:55289006	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs79633274	chr11:55224396	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs79727833	chr11:55293051	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs79883073	chr11:55184745	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs80123215	chr11:55339466	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs80210585	chr11:55339740	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs8031576	chr15:90380214	AP3S2	chr15:90373832-90456222:-	-0.64	-4.78	8.07E-6	Type 2 diabetes	
+SKCM	cis	1	rs8070454	chr17:38160754	GSDMA	chr17:38119226-38134019:+	-0.28	-4.77	8.34E-6	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs8078723	chr17:38166879	GSDMA	chr17:38119226-38134019:+	-0.28	-4.7	1.1E-5	Neutrophil count;White blood cell count;C-reactive protein and white blood cell count	
+SKCM	cis	1	rs8138799	chr22:24556902	SUSD2	chr22:24577444-24585074:+	1.26	6.97	8.89E-10	Amyotrophic lateral sclerosis	
+SKCM	cis	1	rs8141797	chr22:24582041	SUSD2	chr22:24577444-24585074:+	-1.06	-6.54	5.73E-9	Amyotrophic lateral sclerosis	
+SKCM	cis	1	rs832553	chr5:56114786	C5orf35	chr5:56205103-56213010:+	0.79	5.23	1.4E-6	Type 2 diabetes	
+SKCM	cis	1	rs832554	chr5:56115036	C5orf35	chr5:56205103-56213010:+	0.77	5.15	1.9E-6	Type 2 diabetes	
+SKCM	cis	1	rs832584	chr5:56179212	C5orf35	chr5:56205103-56213010:+	-0.74	-4.76	8.85E-6	Type 2 diabetes	
+SKCM	cis	1	rs877636	chr12:56480583	RPS26	chr12:56435686-56438005:+	-0.64	-4.67	1.24E-5	Cognitive function	
+SKCM	cis	1	rs884841	chr6:86680300	SNHG5	chr6:86386726-86388451:-	-0.56	-5.34	9.01E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs9283717	chr5:56078659	C5orf35	chr5:56205103-56213010:+	0.83	5.54	4.0E-7	Type 2 diabetes	
+SKCM	cis	1	rs9296404	chr6:42925803	PEX6	chr6:42931613-42946981:-	0.68	6.26	1.96E-8	Plasma homocysteine levels (post-methionine load test)	
+SKCM	cis	1	rs9296832	chr6:56100909	COL21A1	chr6:55921389-56258892:-	0.6	5.97	6.76E-8	Pulse pressure	
+SKCM	cis	1	rs9349804	chr6:56098876	COL21A1	chr6:55921389-56258892:-	0.6	5.97	6.76E-8	Pulse pressure	
+SKCM	cis	1	rs955196	chr6:86729951	SNHG5	chr6:86386726-86388451:-	0.6	5.58	3.42E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs955197	chr6:86729675	SNHG5	chr6:86386726-86388451:-	-0.57	-5.54	4.0E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs955227	chr6:86651032	SNHG5	chr6:86386726-86388451:-	-0.55	-5.23	1.41E-6	Response to antipsychotic treatment	
+SKCM	cis	1	rs9624834	chr22:25846015	CRYBB2	chr22:25615612-25627836:+	1.39	6.94	1.01E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs9624835	chr22:25846021	CRYBB2	chr22:25615612-25627836:+	1.39	6.94	1.01E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs9624836	chr22:25846087	CRYBB2	chr22:25615612-25627836:+	1.39	6.94	1.01E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs9647603	chr6:86639341	SNHG5	chr6:86386726-86388451:-	-0.56	-5.62	2.88E-7	Response to antipsychotic treatment	
+SKCM	cis	1	rs9666121	chr11:55272448	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs9666260	chr11:55272410	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs9667732	chr11:55272520	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs9689	chr1:25688276	RHD	chr1:25598981-25656935:+	-0.6	-4.98	3.76E-6	Erythrocyte sedimentation rate	
+SKCM	cis	1	rs979111	chr11:55171027	OR4A16	chr11:55110677-55111661:+	-0.9	-4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs982276	chr11:55320099	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs982277	chr11:55320394	OR4A16	chr11:55110677-55111661:+	0.9	4.97	3.85E-6	Systemic lupus erythematosus	
+SKCM	cis	1	rs9825741	chr3:41761828	ULK4	chr3:41288091-42003660:-	-0.8	-5.2	1.54E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9826058	chr3:41762062	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9830469	chr3:41762535	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9841212	chr3:134191938	ANAPC13	chr3:134196547-134204865:-	0.58	4.76	8.91E-6	Height	
+SKCM	cis	1	rs984222	chr1:119503843	WARS2	chr1:119573841-119683295:-	-0.55	-5.16	1.85E-6	Waist-to-hip ratio adjusted for body mass index;Waist-hip ratio	
+SKCM	cis	1	rs9847006	chr3:41755359	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9847975	chr3:41786904	ULK4	chr3:41288091-42003660:-	0.79	5.16	1.8E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9848754	chr3:41753647	ULK4	chr3:41288091-42003660:-	0.81	5.15	1.94E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9852303	chr3:41759525	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9854833	chr3:41775577	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9856633	chr3:42013850	ULK4	chr3:41288091-42003660:-	0.72	4.65	1.31E-5	Diastolic blood pressure	
+SKCM	cis	1	rs9857175	chr3:41822054	ULK4	chr3:41288091-42003660:-	0.73	4.74	9.49E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9863915	chr3:41762002	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9864217	chr3:41762206	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9866759	chr3:41758418	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9867627	chr3:41795841	ULK4	chr3:41288091-42003660:-	-0.79	-5.16	1.8E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9869282	chr3:41756064	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9869440	chr3:41763155	ULK4	chr3:41288091-42003660:-	0.79	5.07	2.64E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9874975	chr3:41764300	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9875083	chr3:41775786	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9875107	chr3:41822313	ULK4	chr3:41288091-42003660:-	0.73	4.74	9.49E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9882329	chr3:41767154	ULK4	chr3:41288091-42003660:-	0.8	5.08	2.51E-6	Diastolic blood pressure	
+SKCM	cis	1	rs9920421	chr15:90368067	AP3S2	chr15:90373832-90456222:-	-0.64	-4.81	7.21E-6	Type 2 diabetes	
+SKCM	cis	1	rs9920762	chr15:90368171	AP3S2	chr15:90373832-90456222:-	-0.64	-4.76	8.63E-6	Type 2 diabetes	
+SKCM	cis	1	rs9920775	chr15:90368273	AP3S2	chr15:90373832-90456222:-	-0.64	-4.76	8.8E-6	Type 2 diabetes	
+SKCM	cis	1	rs997872	chr22:25878614	CRYBB2	chr22:25615612-25627836:+	1.2	6.47	7.72E-9	Bipolar disorder with mood-incongruent psychosis	
+SKCM	cis	1	rs997873	chr22:25878282	CRYBB2	chr22:25615612-25627836:+	1.2	6.47	7.72E-9	Bipolar disorder with mood-incongruent psychosis	
