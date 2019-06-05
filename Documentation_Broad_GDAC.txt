@@ -1,0 +1,185 @@
+## URL
+#  https://confluence.broadinstitute.org/display/GDAC/Documentation#Documentation-RNAseqPipelines
+
+Downloading Firehose Data and Analysis Results
+
+    FireBrowse user interface
+    FireBrowse RESTful api
+    Python and UNIX bindings to FireBrowse RESTful api
+    R bindings to FireBrowse RESTful api
+    firehose_get: retrieve archive tarballs for any Firehose run, en masse
+
+Searching our Analysis and Stddata Run Results
+
+    GDAC Search Examples
+
+Adding Custom Data to Firehose: from external sources like other TCGA centers
+
+    User manual ( user_manual_customEvent_modules_July182013.pdf)
+
+Output Archive Nomenclature
+
+    Archive Nomenclature
+
+Analyses Workflow in Firehose
+
+    Directed graph of GDAC Firehose analysis tasks: the name on each node corresponds to the pipeline task(s) executed at that step, and is also reflected in the output archive for that task (see Nomenclature above). Here is a live version of the same graph, in which clicking on a graph node will bring you to the Nozzle report for the respective analysis task.
+
+ 
+Expression Microarray processing
+
+    Raw data (level 1), probe-level data (level 2), and gene-level data (level 3) of mRNA and miRNA expression data were downloaded from the DCC.
+    The data process was described at TCGA OV paper.
+
+Clinical Data Processing
+
+    Historically, TCGA clinical data elements (CDEs) have been collected and distributed in XML form
+    But many bioinformatics algorithms are coded to operate upon 2D tables instead of XML tree structures
+    So to foster algorithmic analysis, Firehose transforms the CDEs from XML into 2D tables
+    These 2D tables are available in the Merge_Clinical set of archives created by our stddata runs
+        And should reflect the entire range of 700-800 CDEs available in TCGA (unioned across all disease cohorts)
+    To simplify downstream correlation analyses, Firehose then selects ("picks") a subset of approximately 60-80 CDEs
+    This subset of CDEs is available in the Clinical_Pick_Tier1 set of archives created by our stddata runs
+    The process by which this is done is described in our Clinical data processing workflow
+    Here is an interactive heatmap showing the current set of picked CDEs, broken down by disease cohort.  t
+
+    Here's an Excel spreadsheet showing the same thing.
+     Click here to see how Firehose CDEs were improved in August 2015 (and why some CDE names changed)
+     Click here for more internal details on the clinical data processing
+     Click here for information on clinical data from NCI
+
+Clustering Pipelines
+
+    CNMF
+        Publication
+
+    iClusterPlus
+        Preprocessor for TCGA Broad GDAC input data
+            For the input maf file, the preprocessor generates a sample by gene aberration matrix and filter out genes of lower mutation rate.
+            For the input expression data generated in the mRNAseq preprocessor in stddata run, the preprocessor filters out genes of lower variance and generates a sample by gene matrix.
+            For the input copy number seg file, the preprocessor filters out the duplicate regions and generates a sample by gene matrix.
+            For each sample by gene matrix above, it generates a matrix only for intersection of samples across different platform data.
+            Further details are available in nozzle report.
+        Publication
+            iCluster in 2009
+            iClusterPlus in 2013
+        Reproducibility of the result
+            According to the author of the R package, reproducing exactly the same percentEV plot is not guaranteed due to the randomness in MCMC-EM simulation.
+
+RNAseq Pipelines
+
+    Clustering
+    RNAseq_RSEM_value
+    mRNAseq_preprocessor: Pick the "normalized_count"(quantile normalized RSEM) value from illumina hiseq/ga2 mRNAseq level_3 (v2) data set and make the mRNAseq matrix with log2 transformed for the downstream analysis. To maximize sample counts we include both HiSeq and GA2 aliquots in each cohort dataset, but if a given patient has both HiSeq and GA2 aliquots the HiSeq aliquot will take precedence (to avoid double-counting a patient during analysis). The pipeline also will create the matrix with RPKM and log2 transform from hiseq/ag2 mRNAseq level 3 (v1) data set.
+    Z score calculation of RSEM/RPKM data:
+    Z = (expression in single tumor sample) - (mean expression in all tumor samples ) / (standard deviation of expression in all tumor samples)
+
+miRseq Pipelines
+
+    miRseq_preprocess: Pick the "RPM"(reads per million miRNA precursor reads) from the illumina hiseq/aga mirnaseq Level_3 data set and make the matrix with log2 transformed. The preprocessor removes all records with NA values, which may lower the number of miRs utilized & reported during pipeline execution.
+    miRseq_mature_preprocess: Generate matrix with the mature strand value "reads per million miRNA mature reads" from the illumina hiseq/aga mirnaseq Level_3 data set. The mature strands have a MIMAT in the annotation, get all the isoforms of the mature strand by the annotation and sum up all the RPM value (1 sum for each mature strand in the sample), and then merge them into one table and do log2 transform. 
+
+mRNA Pipelines
+
+    mRNA_Preprocess_Median: Pick the matrix for the platform(Affymetrix HG U133, Affymetrix Exon Array and Agilent gene expression) with the largest number of samples and write it out.  
+
+Methylation
+
+    Preprocessor (includes recent recommendations for improvement)
+
+Mutation Pipelines
+
+    Oncotator is used to substantially improve the consistency and utility of TCGA mutation annotation files (MAFs):
+        Establishes column name and order compliance with the TCGA MAF specification
+        Adds additional columns of widespread interest and utility, e.g. Protein_Change
+        hg18 MAFs lifted over to hg19
+        All MAFs re-annotated against Gencode v19
+        Oncotated MAFs are available in 2 pipeline output archives
+            Mutation_Packager_Oncotated_Calls
+            Mutation_Packager_Oncotated_Raw_Calls
+        reflecting the separation of MAFs into two sets (raw/automated and curated, per the Spring 2015 analysis run)
+    Mutation Significance
+        MutSig Documentation Site
+        Publications
+            Comment on "The Consensus Coding Sequences of Human Breast and Colorectal Cancers"
+            Comprehensive genomic characterization defines human glioblastoma genes and core pathways
+
+            Integrated genomic analyses of ovarian carcinoma
+    Mutation_CoOccurrence: The pipeline was used to generate the input file for icoMut figure. The input file from the pipeline of Aggregate_AnalysisFeatures. In this pipeline, we set up these threshold for copy number change: arm.gain=2.25, arm.amplification=3, arm.loss=1.75, arm.deletion=1.5, focal.gain=3, focal.amplification=5, focal.loss=1.5, focal.deletion=1. Then we converted the copy number amplification, gain, loss, deletion and others into 4, 3, 2, 1, 0 and set missing value as 5. For the mRNA expression date, we did median centered normalization for each gene across all samples.
+    CHASM (Karchin Lab, Johns Hopkins University)
+    SignatureAnalyzer:
+        Mutation signature profiling using Bayesian NMF algorithms, as described in Somatic ERCC2 mutations are associated with a distinct genomic signature in urothelial tumors (Kim et al, Nature Genetics, 2016)
+        For more information or to obtain the latest version, see SignatureAnalyzer or send email to gdac@broadinstitute.org
+
+Copy Number Pipelines
+
+    GISTIC 2.0
+        Documentation
+        Source Code, Examples, etc.
+        GISTIC2_outputs_2011.07.08.docx
+    CNMFclustering: one based on real copy number data, the other based on threshold value
+    Gene By Sample
+        How to use CNTools
+
+RPPA Pipelines
+
+    RPPA_AnnotateWithGene: Read in the file of rppa_core-protein_normalization (http://bioinformatics.mdanderson.org/main/TCPA:Overview) and then annotate antibody name to gene name.  
+
+Pathway Pipelines
+
+    GSEA
+        Our pipeline "Pathway_GSEA_mRNAseq" finds enriched pathways of each mRNAseq cluster using the Broad GSEA tool.
+        Website at Broad GSEA
+    PARADIGM (note that this module uses the iterative scatter gather framework)
+        Pipeline Description
+        Publication
+    HOTNET
+        Website at Brown University (Raphael Lab)
+
+Feature Table: Aggregate_AnalysisFeatures
+The purpose of this pipeline is to aggregate the most important findings across ALL pipelines in the GDAC Firehose analysis workflow, into a single feature table. At present the feature table represents the samples by selected significant events (copy number alterations, somatic mutations, marker genes in each mRNAseq clustering subtype, clinical features and clustering results). The first column of the table is the sample id, with the remaining columns representing the analysis features as described here:
+
+    Clinical features: start with “CLI_” followed by feature name. The clinical file (*.merged.txt) was from the pipeline of Append_CustomClinical.
+
+    Clustering results: start with “CLUS_” followed by platform_method (e.g. CLUS_mRNAseq_cHierarchical). The cluster file (*.mergedcluster.txt) was from the pipeline of Aggregate_Molecular_Subtype_Clusters.
+
+    Somatic mutation genes: start with “SMG_” followed by version number( mutsig2.0,cv,2cv)_gene name (e.g. SMG_mutsig.2CV_FAM47C), as taken from the significant gene list (*.sig_genes.txt) produced by Mutsig2CV. The numbers in each row of a given SMG column indicate the type of mutation (with 0 denoting that no mutation was detected):
+
+        Synonymous
+
+        In-frame INDEL
+
+        Other Non-synonymous
+
+        Missense
+
+        Splice Site
+
+        Frameshift
+
+        Nonsense
+
+    Somatic mutation genes expression: start with “SMG_” followed by gene name_mRNA (e.g. SMG_KRT3_mRNA). The mRNA expression (*.uncv2.mRNAseq_RSEM_normalized_log2.txt) was from the pipeline of mRNAseq_preprocessor.
+
+    Mutation rate: rate_non (non synonymous) and rate_sil (synonymous). The mutation rate (patient_counts_and_rates.txt) was from the Mutsig2CV.
+    Marker genes in each mRNAseq clustering subtype: star with “mRNA_” followed by CNMF_gene name_difference_cluster number (e.g. mRNA_CNMF_FAM66E_.0.6_2(In each cluster, the top 5 up regulated and top 5 down regulated genes were selected).
+
+    Significant copy number alterations as reported by GISTIC:
+        copy number focal amplifications: start with “Amp_” followed by cytoband (e.g. Amp_1q32.1)
+        focal deletion: start with “Del_” followed by cytoband (e.g. Del_1p36.32)
+        Arm level amplification: start with “CN_” followed by arm_Amp (e.g. CN_10p_Amp)
+        Arm level deletion: start with “CN_” followed by arm_Del (e.g. CN_10p_Del)
+        Copy number alteration gene with expression: start with “Amp/Del_” followed by gene name_cytoband_mRNA (e.g. Amp_SOX2_3q26.32_mRNA and Del_PARK2_6q24.3_mRNA)
+
+• Supplemented with copy number altered genes in our master list built from PANCANER cnvs in Zack et al 2013 and COSMIC
+Adding New Codes To Firehose
+
+    This is outlined in our FAQ.
+
+QC Pipelines
+
+    PVCA
+        Pipeline
+        Preprocessor
+        Core
+        Nozzle Report
